@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Build cn_en.m3u
-        shell: python3
+        shell: python3 {0}
         run: |
           import urllib.request
 
