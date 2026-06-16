@@ -1,0 +1,16 @@
+#EXTM3U
+# ===== 合并频道列表: 🇨🇳 中国 + 🇺🇸 美国 + 🇬🇧 英国 + 🇦🇺 澳大利亚 + 🇨🇦 加拿大 =====
+# 生成时间: 2026-06-16
+# 来源: iptv-org/iptv
+# 使用方法: VLC -> 打开网络串流 -> 粘贴此文件URL
+# =================================================================
+
+# ===== 🇨🇳 中国 =====
+#EXTINF:-1 tvg-id="AndoTV.cn@SD",Ando TV (1080p)
+http://play.kankanlive.com/live/1711956137852982.m3u8
+#EXTINF:-1 tvg-id="AnshunComprehensiveNewsChannel.cn@SD",Anshun Comprehensive News Channel (1080p)
+https://live.ggpia.com/live/axzx.m3u8
+#EXTINF:-1 tvg-id="AnshunScienceAndEducationChannel.cn@SD",Anshun Science And Education Channel (1080p)
+https://live.ggpia.com/live/axkj.m3u8
+#EXTINF:-1 tvg-id="BreadTV.cn@SD",BreadTV (1080p)
+http://125.211.89.150:9091/live/MMzc5Mjk1M185XzE2/sdtest01.m3u8
