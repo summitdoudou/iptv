@@ -340,3 +340,41 @@ http://stream0.tv41.ru/live.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru@SD",Kinopremyera
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD",Mir
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru@SD",Mir 24
+https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru@SD",viju TV1000 action
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD",MMA-TV.com
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru@SD",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru@SD",viju Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD",viju+ Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DaVinci.ru@SD",Da Vinci
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD",Mir (576p)
+https://tvcdn01.oktv.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@HD",NTV HD (1080p)
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD",Solovyov Live (1080p)
+https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@SD",Carousel (576p)
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru@SD",Moskva 24 (576p)
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Subbota.ru@SD",Subbota! (576p)
+http://217.114.191.150/Subbota/index.m3u8
+#EXTINF:-1 tvg-id="SuperGeroi.ru@SD",SuperGeroi (1080p)
+http://31.148.48.15/Malish_TV/index.m3u8
+#EXTINF:-1 tvg-id="Friday.ru@SD",Friday! (1080p)
+https://cdn.telecloud.tv/CH4419/index.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru@SD",TV Centr (1080p)
+https://cdn.telecloud.tv/CH4603/index.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@HD",REN TV HD (1080p)
+https://cdn.telecloud.tv/CH189/index.m3u8
+#EXTINF:-1 tvg-id="BelRos.ru@SD",BelRos (720p)
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
