@@ -1561,7 +1561,7 @@ https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="KSAZTV101.us@HD" group-title="美国",KSAZ-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KSCNTV221.us@HD" group-title="美国",KSCN-DT1
+#EXTINF:-1 tvg-id="KSCNTV221.us@HD" group-title="美国",Scientology Network KSCN-DT1
 https://stream-losangeles.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="KTBC71.us@HD" group-title="美国",KTBC-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
@@ -2087,7 +2087,7 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_ch
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-id="WFLD501.us@HD" group-title="美国",WFLD-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WFTTTV621.us@HD" group-title="美国",WFTT-DT1
+#EXTINF:-1 tvg-id="WFTTTV621.us@HD" group-title="美国",Scientology Network WFTT-DT1
 https://stream-tampa.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="WFUTDT681.us@HD" group-title="美国",WFUT-DT1 (720p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
@@ -2215,6 +2215,10 @@ https://dokagents.site/live/axnw/mono.m3u8
 https://dokagents.site/live/axnb/mono.m3u8
 #EXTINF:-1 tvg-id="NTDTV.us@East" group-title="美国",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 tvg-id="TimelessTV.us@SD" group-title="美国",Timeless TV
+https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+#EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us@SD" group-title="美国",Magnificent Movies Network
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MeTV.us@SD" group-title="美国",MeTV (720p)
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East" group-title="美国",FXX (720p)
@@ -2257,6 +2261,38 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us@HD" group-title="美国",Outdoor Channel HD (720p)
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+#EXTINF:-1 tvg-id="Reelz.us@SD" group-title="美国",Reelz (720p)
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us@SD" group-title="美国",MTV Live (720p)
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" group-title="美国",National Geographic HD East (720p)
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" group-title="美国",National Geographic Wild HD East (720p)
+http://198.58.104.90:8989/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East" group-title="美国",FX (1080p)
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East" group-title="美国",SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-id="E.us@East" group-title="美国",E! (1080p)
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-id="StarzKidsFamily.us@East" group-title="美国",Starz Kids & Family (1080p)
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="StarzCinema.us@East" group-title="美国",Starz Cinema (720p)
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us@East" group-title="美国",Starz Comedy (1080p)
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East" group-title="美国",Bravo (720p)
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us@EastHD" group-title="美国",AMC (720p)
+http://84.17.50.102/amc/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@East" group-title="美国",Fox (540p)
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us@East" group-title="美国",Showtime Family Zone (720p)
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" group-title="美国",beIN Sports USA (720p)
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-id="WeTV.us@East" group-title="美国",We TV (720p)
+https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2579,6 +2615,8 @@ http://81.15.109.89:8001/play/BBCEarth
 http://81.15.109.89:8001/play/BBCFirst
 #EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland" group-title="英国",BBC Lifestyle Poland
 http://81.15.109.89:8001/play/BBCLifestyle
+#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" group-title="英国",AMC Europe Bulgary (720p)
+http://45.136.153.199/AMC/mono.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
