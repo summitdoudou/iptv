@@ -429,10 +429,6 @@ http://117.70.93.210:1935/live/xinwen/playlist.m3u8
 http://dstpush1.retalltech.com/app/stream2.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",安徽 Ⅰ 铜陵综合 (720p)
 http://dstpush1.retalltech.com/app/stream1.m3u8
-#EXTINF:-1 tvg-id="AnhuiSatelliteTV.cn@SD" group-title="中国",安徽卫视 (2160p)
-http://118.81.195.79:9003/hls/21/index.m3u8
-#EXTINF:-1 tvg-id="AnhuiSatelliteTV.cn@SD" group-title="中国",安徽卫视 (576p)
-http://183.207.248.71/gitv/live1/AHWS/AHWS
 #EXTINF:-1 tvg-id="" group-title="中国",完美游戏 (1080p) [Not 24/7]
 http://183.207.248.71/cntv/live1/wmyx/wmyx
 #EXTINF:-1 tvg-id="CHCHomeTheater.cn@SD" group-title="中国",家庭影院 (1080p)
@@ -1401,8 +1397,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://fnx.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" group-title="美国",Fox Deportes (1280p)
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (480p)
-http://41.205.93.154/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (144p)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" group-title="美国",Fox News Radio (720p)
@@ -2221,8 +2215,6 @@ https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MeTV.us@SD" group-title="美国",MeTV (720p)
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-#EXTINF:-1 tvg-id="FXX.us@East" group-title="美国",FXX (720p)
-https://cdn.telecloud.tv/CH3255/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us@East" group-title="美国",Paramount Network (720p)
 http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us@East" group-title="美国",Lifetime (720p)
@@ -2293,6 +2285,18 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.us@East" group-title="美国",We TV (720p)
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" group-title="美国",FX Latin America (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" group-title="美国",Cinecanal (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TheQIndia.us@SD" group-title="美国",The Q India (576p)
+https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us@SD" group-title="美国",AccuWeather NOW (720p)
+http://23.239.31.26:8989/accuweather/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" group-title="美国",BBC America (720p)
+http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
