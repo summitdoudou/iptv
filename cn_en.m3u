@@ -2297,6 +2297,68 @@ http://23.239.31.26:8989/accuweather/index.m3u8
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us@East" group-title="美国",BBC America (720p)
 http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us@East" group-title="美国",Freeform (720p)
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="DHE.us@SD" group-title="美国",DHE (1080p)
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD" group-title="美国",Big Ten Network (720p)
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-id="IONTV.us@East" group-title="美国",ION TV (720p)
+http://23.237.104.106:8080/USA_ION/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.us@SD" group-title="美国",Bounce (720p)
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 tvg-id="VICETV.us@SD" group-title="美国",VICE TV (1080p)
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East" group-title="美国",Lifetime Movies (1080p)
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 tvg-id="IFC.us@East" group-title="美国",IFC (1080p)
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannel.us@East" group-title="美国",Smithsonian Channel (720p)
+http://185.246.209.113/SmithsonianHD/index.m3u8
+#EXTINF:-1 tvg-id="TVLand.us@East" group-title="美国",TV Land (720p)
+http://185.246.209.113/TVLandHD/index.m3u8
+#EXTINF:-1 tvg-id="MotorTrend.us@SD" group-title="美国",Motor Trend (720p)
+http://185.246.209.113/MotorTrendHD/index.m3u8
+#EXTINF:-1 tvg-id="FYI.us@East" group-title="美国",FYI (720p)
+http://185.246.209.113/FYIHD/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East" group-title="美国",USA Network (720p)
+http://185.246.209.113/DISCOVERYHD/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" group-title="美国",Nick Jr. (576p)
+http://84.17.50.102/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="美国",Nicktoons (720p)
+http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East" group-title="美国",History (576p)
+http://84.17.50.102/history/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@East" group-title="美国",BET (720p)
+http://41.205.93.154/BET-EN/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us@East" group-title="美国",BET Her (720p)
+http://41.205.93.154/BETHER/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="美国",Nickelodeon (720p)
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="MSG.us@SD" group-title="美国",MSG (720p)
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD" group-title="美国",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="美国",Pasiones Latin America (1080p)
+http://179.60.51.134:8888/PASIONES/index.m3u8
+#EXTINF:-1 tvg-id="WPIXHD.us@SD" group-title="美国",WPIX-HD (576p)
+http://84.17.50.102/cw/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD" group-title="美国",Tennis Channel (1080p)
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" group-title="美国",One America News Network (720p)
+http://23.237.104.106:8080/USA_OAN/index.m3u8
+#EXTINF:-1 tvg-id="GetTV.us@SD" group-title="美国",GetTV (720p)
+https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitChannel.us@SD" group-title="美国",Pursuit Channel (720p)
+https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineNostalgia.us@SD" group-title="美国",Cine Nostalgia (720p)
+https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="USATODAY.us@SD" group-title="美国",USA TODAY (720p)
+https://a-cdn.klowdtv.com/live3/usatoday_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.us@UK" group-title="美国",Clubbing TV UK (720p)
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsStreet.us@SD" group-title="美国",Kids Street (1080p)
+http://181.78.121.15:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2621,6 +2683,18 @@ http://81.15.109.89:8001/play/BBCFirst
 http://81.15.109.89:8001/play/BBCLifestyle
 #EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" group-title="英国",AMC Europe Bulgary (720p)
 http://45.136.153.199/AMC/mono.m3u8
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" group-title="英国",BBC Three/CBBC (720p)
+http://193.46.58.239:8080/CBBCHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" group-title="英国",BBC Four/CBeebies (720p)
+http://193.46.58.239:8080/CbeebiesHD/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="英国",Channel 5 HD (720p)
+http://193.46.58.239:8080/Channel5/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="英国",BBC One London HD (720p)
+http://193.46.58.239:8080/BBCOneHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="英国",BBC Two HD (720p)
+http://193.46.58.239:8080/BBCTwoHD/index.m3u8
+#EXTINF:-1 tvg-id="EpicDrama.uk@Poland" group-title="英国",Epic Drama Poland (720p)
+http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
@@ -2971,3 +3045,13 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 #EXTINF:-1 tvg-id="ZeeTVCanada.ca@SD" group-title="加拿大",Zee TV Canada (1080p)
 https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
+#EXTINF:-1 tvg-id="TPlusE.ca@SD" group-title="加拿大",T+E (720p)
+http://185.246.209.113/T+E/index.m3u8
+#EXTINF:-1 tvg-id="CottageLife.ca@SD" group-title="加拿大",Cottage Life (720p)
+http://185.246.209.113/CottageLife/index.m3u8
+#EXTINF:-1 tvg-id="CHCHDT.ca@SD" group-title="加拿大",CHCH-DT (720p)
+http://185.246.209.113/CHCHHD/index.m3u8
+#EXTINF:-1 tvg-id="CTVLifeChannel.ca@SD" group-title="加拿大",CTV Life Channel (720p)
+http://185.246.209.113/ANIMALPLANETHD/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@HD" group-title="加拿大",Love Nature HD (720p)
+http://185.246.209.113/LOVENATUREHD/index.m3u8
