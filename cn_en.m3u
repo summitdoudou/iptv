@@ -2359,6 +2359,44 @@ https://a-cdn.klowdtv.com/live3/usatoday_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsStreet.us@SD" group-title="美国",Kids Street (1080p)
 http://181.78.121.15:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@Bulgaria" group-title="美国",AXN White Bulgaria
+http://85.14.32.26:8800/udp/239.100.10.18:5000
+#EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" group-title="美国",AXN Black
+http://85.14.32.26:8800/udp/239.100.10.17:5000
+#EXTINF:-1 tvg-id="AXNBlack.us@CzechRepublic" group-title="美国",AXN Black Czech Republic
+http://88.212.15.19/live/test_black/playlist.m3u8
+#EXTINF:-1 tvg-id="Heartland.us@Eastern" group-title="美国",Heartland (720p)
+https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" group-title="美国",History Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" group-title="美国",History 2 Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" group-title="美国",A&E Latin America (1080p)
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" group-title="美国",Lifetime Latin America (1080p)
+http://138.121.15.230:9002/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" group-title="美国",Universal TV Latin America (1080p)
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" group-title="美国",Studio Universal Latin America (1080p)
+http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" group-title="美国",USA Network Latin America (1080p)
+http://138.121.15.230:9002/USA/index.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="美国",DreamWorks Channel Latin America (1080p)
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+#EXTINF:-1 tvg-id="CanalInfantil.us@SD" group-title="美国",Canal Infantil (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="SPEEDVISION.us@SD" group-title="美国",SPEEDVISION (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fierrofondo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JuntosTV.us@SD" group-title="美国",Juntos TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiMusicTV.us@SD" group-title="美国",IndiMusic TV (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/musictv/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="美国",Disney Channel (720p)
+https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="美国",Disney Junior (720p)
+https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@US" group-title="美国",Bloomberg TV (1080p)
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2695,6 +2733,44 @@ http://193.46.58.239:8080/BBCOneHD/index.m3u8
 http://193.46.58.239:8080/BBCTwoHD/index.m3u8
 #EXTINF:-1 tvg-id="EpicDrama.uk@Poland" group-title="英国",Epic Drama Poland (720p)
 http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" group-title="英国",AMC Europe Bulgary
+http://213.91.179.28:8000/play/a0by
+#EXTINF:-1 tvg-id="MTVGlobal.uk@SD" group-title="英国",MTV Global
+http://85.14.32.26:8800/udp/239.100.10.67:5000
+#EXTINF:-1 tvg-id="AMCEurope.uk@CzechRepublic" group-title="英国",AMC Europe Czech Republic
+http://88.212.15.19/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Hungary" group-title="英国",AMC Europe Hungary
+http://46.149.191.217:9007/play/a01d
+#EXTINF:-1 tvg-id="BBCOne.uk@SouthWest" group-title="英国",BBC One South West (1080p)
+http://149.102.245.111/51/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@ScotlandHD" group-title="英国",BBC One Scotland HD (1080p)
+http://149.102.245.111/225/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@West" group-title="英国",BBC One West (1080p)
+http://149.102.245.111/305/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthWest" group-title="英国",BBC One North West (1080p)
+http://149.102.245.111/916/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD" group-title="英国",BBC One Yorkshire HD (1080p)
+http://149.102.245.111/918/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@WalesHD" group-title="英国",BBC One Wales HD (1080p)
+http://149.102.245.111/927/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@London" group-title="英国",BBC One (1080p)
+http://149.102.245.111/1196/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@WestMidlands" group-title="英国",BBC One West Midlands (1080p)
+http://149.102.245.111/1261/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@EastMidlands" group-title="英国",BBC One East Midlands (1080p)
+http://149.102.245.111/1263/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="英国",BBC Two HD (1080p)
+http://149.102.245.111/1197/index.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk@London" group-title="英国",ITV1 (1080p)
+http://149.102.245.111/1198/index.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk@UK" group-title="英国",Channel 4 (1080p)
+http://149.102.245.111/1199/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk@SD" group-title="英国",Channel 5 (1080p)
+http://149.102.245.111/1242/index.m3u8
+#EXTINF:-1 tvg-id="JimJamEurope.uk@SD" group-title="英国",JimJam Europe (720p)
+https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@FranceHD" group-title="英国",BabyTV France HD (720p)
+http://41.223.30.230/BABYTV/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
