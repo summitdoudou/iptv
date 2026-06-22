@@ -1055,6 +1055,10 @@ http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
 #EXTINF:-1 tvg-id="HeilongjiangTV.cn@SD" group-title="中国",黑龙江卫视 (2160p)
 http://118.81.195.79:9003/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn@SD" group-title="中国",CCTV-1
+https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="中国",CGTN (720p)
+https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="美国",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="24Kitchen.us@Serbia" group-title="美国",24Kitchen Serbia (720p)
@@ -1721,8 +1725,6 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="美国",Nickelodeon (576i)
 http://79.127.207.193/Nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-id="NowMediaTelevision.us@HD" group-title="美国",NowMedia Television (1080p)
-https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="NRBTV.us@SD" group-title="美国",NRB TV (480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVAsiaPacific.us@SD" group-title="美国",NTD TV Asia-Pacific
@@ -2397,6 +2399,28 @@ https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8
 https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US" group-title="美国",Bloomberg TV (1080p)
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="美国",DreamWorks Channel Latin America (576p)
+https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8
+#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" group-title="美国",Sony Movies Latin America (720p)
+https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@CzechRepublic" group-title="美国",AXN White CzechRepublic
+http://88.212.15.19/live/test_white/playlist.m3u8
+#EXTINF:-1 tvg-id="KaloopyTV.us@SD" group-title="美国",Kaloopy TV (1080p)
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
+#EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish" group-title="美国",NowMedia Television Spanish (1080p)
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+#EXTINF:-1 tvg-id="AXNAdria.us@SD" group-title="美国",AXN Adria
+http://5.57.74.130:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="NowMediaTelevision.us@HD" group-title="美国",NowMedia Television (1080p)
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@Portugal" group-title="美国",AXN White Portugal
+http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" group-title="美国",Comedy Central Latin America
+http://103.111.40.244:9999/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East" group-title="美国",Hallmark Channel (720p)
+http://41.223.30.230/HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="KCKSLD253.us@HD" group-title="美国",KCKS-LD 25.3 (720p)
+https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2719,8 +2743,6 @@ http://81.15.109.89:8001/play/BBCEarth
 http://81.15.109.89:8001/play/BBCFirst
 #EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland" group-title="英国",BBC Lifestyle Poland
 http://81.15.109.89:8001/play/BBCLifestyle
-#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" group-title="英国",AMC Europe Bulgary (720p)
-http://45.136.153.199/AMC/mono.m3u8
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" group-title="英国",BBC Three/CBBC (720p)
 http://193.46.58.239:8080/CBBCHD/index.m3u8
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" group-title="英国",BBC Four/CBeebies (720p)
@@ -2771,6 +2793,14 @@ http://149.102.245.111/1242/index.m3u8
 https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@FranceHD" group-title="英国",BabyTV France HD (720p)
 http://41.223.30.230/BABYTV/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorMENA.uk@SD" group-title="英国",Disney Junior MENA (576p)
+http://116.90.120.157:8000/play/a0qo/index.m3u8
+#EXTINF:-1 tvg-id="IranInternational.uk@SD" group-title="英国",Iran International (1080p)
+https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" group-title="英国",AMC Europe Bulgary
+http://212.70.131.37:8000/play/a05k
+#EXTINF:-1 tvg-id="GBNews.uk@SD" group-title="英国",GB News (1080p)
+https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
