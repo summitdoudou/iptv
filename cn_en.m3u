@@ -1059,6 +1059,8 @@ http://118.81.195.79:9003/hls/31/index.m3u8
 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="中国",CGTN (720p)
 https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" group-title="中国",CGTN Spanish (720p)
+http://45.165.82.19/test/index.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="美国",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="24Kitchen.us@Serbia" group-title="美国",24Kitchen Serbia (720p)
@@ -1405,8 +1407,6 @@ https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" group-title="美国",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" group-title="美国",Fox Sports 1 (1280p)
-https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" group-title="美国",Fox Sports 2 (480p)
 https://tvsen7.aynaott.com/foxsports2/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us@SD" group-title="美国",Fox Weather (720p)
@@ -2421,6 +2421,26 @@ http://103.111.40.244:9999/play/a0i5/index.m3u8
 http://41.223.30.230/HALLMARK/index.m3u8
 #EXTINF:-1 tvg-id="KCKSLD253.us@HD" group-title="美国",KCKS-LD 25.3 (720p)
 https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
+#EXTINF:-1 tvg-id="StLuciePublicSchools.us@SD" group-title="美国",St Lucie Public Schools
+https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
+#EXTINF:-1 tvg-id="WSLFLD351.us@HD" group-title="美国",WSLF-LD 35.1 (720p)
+https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@SD" group-title="美国",AXN White
+http://82.78.243.219:45739/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us@Romania" group-title="美国",AXN Black Romania
+http://82.78.243.219:45739/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico" group-title="美国",AXN Latin America Mexico
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" group-title="美国",AXN Latin America
+http://45.167.1.138:8000/play/a04s
+#EXTINF:-1 tvg-id="SemillitasTV.us@SD" group-title="美国",Semillitas TV (576p)
+http://45.5.117.99:8000/play/a0g3/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="美国",Nickelodeon Latin America (1080p)
+http://179.60.51.134:8888/NICK/index.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="美国",Nick Jr. Latin America (1080p)
+http://179.60.51.134:8888/NICK-JR/index.m3u8
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" group-title="美国",MTV Latin America (1080p)
+http://179.60.51.134:8888/MTV/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2801,6 +2821,30 @@ https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIO
 http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 tvg-id="GBNews.uk@SD" group-title="英国",GB News (1080p)
 https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8
+#EXTINF:-1 tvg-id="EpicDrama.uk@ROM" group-title="英国",Epic Drama
+http://82.78.243.219:45739/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@ScotlandHD" group-title="英国",BBC One Scotland HD (1080p)
+http://109.61.81.129/225/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthWest" group-title="英国",BBC One North West (1080p)
+http://109.61.81.129/916/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD" group-title="英国",BBC One Yorkshire HD (1080p)
+http://109.61.81.129/918/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@WalesHD" group-title="英国",BBC One Wales HD (1080p)
+http://109.61.81.129/927/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@WestMidlands" group-title="英国",BBC One West Midlands (720p)
+http://109.61.81.129/1261/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@EastMidlands" group-title="英国",BBC One East Midlands (396p)
+http://109.61.81.129/1263/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@London" group-title="英国",BBC One (1080p)
+http://109.61.81.129/1196/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="英国",BBC Two HD (1080p)
+http://109.61.81.129/1197/index.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk@London" group-title="英国",ITV1 (1080p)
+http://109.61.81.129/1198/index.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk@UK" group-title="英国",Channel 4 (1080p)
+http://109.61.81.129/1199/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk@SD" group-title="英国",Crime + Investigation CEE
+http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
