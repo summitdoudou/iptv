@@ -1061,6 +1061,8 @@ https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" group-title="中国",CGTN Spanish (720p)
 http://45.165.82.19/test/index.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="中国",CGTN (720p)
+http://217.20.112.199:8080/cgtn/index.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="美国",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="24Kitchen.us@Serbia" group-title="美国",24Kitchen Serbia (720p)
@@ -2205,10 +2207,6 @@ https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us@SD" group-title="美国",Free Speech TV (720p)
 https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.us@SD" group-title="美国",AXN White
-https://dokagents.site/live/axnw/mono.m3u8
-#EXTINF:-1 tvg-id="AXNBlack.us@Romania" group-title="美国",AXN Black Romania
-https://dokagents.site/live/axnb/mono.m3u8
 #EXTINF:-1 tvg-id="NTDTV.us@East" group-title="美国",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
 #EXTINF:-1 tvg-id="TimelessTV.us@SD" group-title="美国",Timeless TV
@@ -2349,16 +2347,6 @@ http://84.17.50.102/cw/index.m3u8
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" group-title="美国",One America News Network (720p)
 http://23.237.104.106:8080/USA_OAN/index.m3u8
-#EXTINF:-1 tvg-id="GetTV.us@SD" group-title="美国",GetTV (720p)
-https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="PursuitChannel.us@SD" group-title="美国",Pursuit Channel (720p)
-https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CineNostalgia.us@SD" group-title="美国",Cine Nostalgia (720p)
-https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="USATODAY.us@SD" group-title="美国",USA TODAY (720p)
-https://a-cdn.klowdtv.com/live3/usatoday_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.us@UK" group-title="美国",Clubbing TV UK (720p)
-https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsStreet.us@SD" group-title="美国",Kids Street (1080p)
 http://181.78.121.15:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@Bulgaria" group-title="美国",AXN White Bulgaria
@@ -2441,6 +2429,44 @@ http://179.60.51.134:8888/NICK/index.m3u8
 http://179.60.51.134:8888/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" group-title="美国",MTV Latin America (1080p)
 http://179.60.51.134:8888/MTV/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="美国",Nickelodeon (576p)
+http://84.17.50.102/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="美国",Nick Jr. Latin America (1080p)
+https://edgectc.com/TeeNNICK_HD/index.m3u8
+#EXTINF:-1 tvg-id="Willow.us@SD" group-title="美国",Willow (576p)
+https://trs1.aynaott.com/willowhd/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East" group-title="美国",TeenNick (576p)
+https://trs1.aynaott.com/teennick/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="美国",Disney Channel (576p)
+https://trs1.aynaott.com/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="美国",Disney Junior (576p)
+https://trs1.aynaott.com/disneyjr/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East" group-title="美国",Disney XD (576p)
+https://trs1.aynaott.com/disneyxd/index.m3u8
+#EXTINF:-1 tvg-id="ShopLC.us@SD" group-title="美国",Shop LC (576p)
+https://trs1.aynaott.com/aspark/index.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us@SD" group-title="美国",PBS Kids Eastern/Central (576p)
+https://trs1.aynaott.com/universalkids/index.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us@SD" group-title="美国",PBS Kids (576p)
+https://trs1.aynaott.com/pbskids/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East" group-title="美国",CBS (576p)
+https://trs1.aynaott.com/cbs/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us@SD" group-title="美国",Laff (576p)
+https://trs1.aynaott.com/laff/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (576p)
+https://trs1.aynaott.com/foxnews/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" group-title="美国",Fox Business Network (576p)
+https://trs1.aynaott.com/foxbusiness/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East" group-title="美国",USA Network (576p)
+https://trs1.aynaott.com/usa/index.m3u8
+#EXTINF:-1 tvg-id="ForeverKids.us@SD" group-title="美国",Forever Kids (576p)
+https://trs1.aynaott.com/ForeverKids/index.m3u8
+#EXTINF:-1 tvg-id="WPIXHD.us@SD" group-title="美国",WPIX-HD (576p)
+https://trs1.aynaott.com/pix11/index.m3u8
+#EXTINF:-1 tvg-id="TheQIndia.us@SD" group-title="美国",The Q India (576p)
+https://trs1.aynaott.com/TheQ/index.m3u8
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="美国",Hola! TV Latin America (1080p)
+http://8.243.126.131:8000/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2753,8 +2779,6 @@ https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/720
 https://mini.allinonereborn.fun/tata.php?id=11783
 #EXTINF:-1 tvg-id="AMCEurope.uk@RO" group-title="英国",AMC Europe
 https://dokagents.site/live/amc/mono.m3u8
-#EXTINF:-1 tvg-id="EpicDrama.uk@ROM" group-title="英国",Epic Drama
-https://dokagents.site/live/epicd/mono.m3u8
 #EXTINF:-1 tvg-id="BBCBrit.uk@Poland" group-title="英国",BBC Brit
 http://81.15.109.89:8001/play/BBCBrit
 #EXTINF:-1 tvg-id="BBCEarth.uk@Poland" group-title="英国",BBC Earth
@@ -2845,6 +2869,24 @@ http://109.61.81.129/1198/index.m3u8
 http://109.61.81.129/1199/index.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk@SD" group-title="英国",Crime + Investigation CEE
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" group-title="英国",BBC News North America (576p)
+http://84.17.50.102/bbcnews/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@UKHD" group-title="英国",BabyTV UK HD (720p)
+https://trs1.aynaott.com/babytv/index.m3u8
+#EXTINF:-1 tvg-id="talkSPORT.uk@SD" group-title="英国",talkSPORT (576p)
+https://trs1.aynaott.com/talkSPORT/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk@SD" group-title="英国",Nickelodeon (576p)
+https://trs1.aynaott.com/nicklodean/index.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" group-title="英国",Moonbug Kids (576p)
+https://trs1.aynaott.com/MoonbugKids/index.m3u8
+#EXTINF:-1 tvg-id="SkyNature.uk@SD" group-title="英国",Sky Nature (576p)
+https://trs1.aynaott.com/skynature/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelEMEA.uk@SD" group-title="英国",Disney Channel EMEA (576p)
+http://185.102.171.218/DisneyChannel/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Greece" group-title="英国",BBC Earth Greece (1080p)
+http://185.102.171.218/BBCEarth/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@Netherlands" group-title="英国",BabyTV Netherlands (576p)
+http://185.102.171.218/BabyTV/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
@@ -2947,6 +2989,8 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:-1 tvg-id="TVSNJewellery.au@SD" group-title="澳大利亚",TVSN Jewellery (1080p)
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-id="CricketGold.au@SD" group-title="澳大利亚",Cricket Gold (1080p)
+https://trs1.aynaott.com/CricketGold/index.m3u8
 #EXTINF:-1 tvg-id="5AABTV.ca@SD" group-title="加拿大",5AAB TV (720p) [Not 24/7]
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AfghanNobelMovies.ca@SD" group-title="加拿大",Afghan Nobel Movies (720p)
@@ -3205,3 +3249,7 @@ http://185.246.209.113/CHCHHD/index.m3u8
 http://185.246.209.113/ANIMALPLANETHD/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca@HD" group-title="加拿大",Love Nature HD (720p)
 http://185.246.209.113/LOVENATUREHD/index.m3u8
+#EXTINF:-1 tvg-id="CP24.ca@SD" group-title="加拿大",CP24 (576p)
+https://trs1.aynaott.com/cp24/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca@SD" group-title="加拿大",TSN3 (720p)
+https://tsn1.shaanp76.workers.dev/
