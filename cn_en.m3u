@@ -2467,6 +2467,28 @@ https://trs1.aynaott.com/pix11/index.m3u8
 https://trs1.aynaott.com/TheQ/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="美国",Hola! TV Latin America (1080p)
 http://8.243.126.131:8000/play/a0fg/index.m3u8
+#EXTINF:-1 tvg-id="SBNTV.us@SD" group-title="美国",SBN TV (720p)
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8
+#EXTINF:-1 tvg-id="SBNTVGlobal.us@SD" group-title="美国",SBN TV Global (720p)
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
+#EXTINF:-1 tvg-id="SBNTVInternational.us@SD" group-title="美国",SBN TV International (720p)
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
+#EXTINF:-1 tvg-id="HCTVPublicAccessChannel.us@SD" group-title="美国",HCTV Public Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8
+#EXTINF:-1 tvg-id="HCTVGovernmentChannel.us@SD" group-title="美国",HCTV Government Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us@SD" group-title="美国",HCTV Educational Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us@SD" group-title="美国",Gillette Public Access Television Channel 189
+https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
+#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel190.us@SD" group-title="美国",Gillette Public Access Television Channel 190
+https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8
+#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel192.us@SD" group-title="美国",Gillette Public Access Television Channel 192
+https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8
+#EXTINF:-1 tvg-id="Access4PAC.us@SD" group-title="美国",Access 4 PAC
+https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-id="Channel18GAC.us@SD" group-title="美国",Channel 18 GAC
+https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2887,6 +2909,30 @@ http://185.102.171.218/DisneyChannel/index.m3u8
 http://185.102.171.218/BBCEarth/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Netherlands" group-title="英国",BabyTV Netherlands (576p)
 http://185.102.171.218/BabyTV/index.m3u8
+#EXTINF:-1 tvg-id="4seven.uk@SD" group-title="英国",4seven (576p)
+https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8
+#EXTINF:-1 tvg-id="5SELECT.uk@SD" group-title="英国",5SELECT (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8
+#EXTINF:-1 tvg-id="5STAR.uk@SD" group-title="英国",5STAR (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" group-title="英国",BBC Earth US (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/BBCEarth.m3u8
+#EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" group-title="英国",BBC Four/CBeebies (720p)
+https://adpnetworkhd-cmd.github.io/iptv/BBCFourCBeebies.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="英国",BBC One London HD (720p)
+https://adpnetworkhd-cmd.github.io/iptv/BBCOne.m3u8
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" group-title="英国",BBC Three/CBBC (720p)
+https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="英国",BBC Two HD (720p)
+https://adpnetworkhd-cmd.github.io/iptv/BBCTwo.m3u8
+#EXTINF:-1 tvg-id="Blaze.uk@SD" group-title="英国",Blaze (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8
+#EXTINF:-1 tvg-id="Challenge.uk@SD" group-title="英国",Challenge (576p)
+https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk@UKHD" group-title="英国",Channel 4 UK HD (720p)
+https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="英国",Channel 5 HD (720p)
+https://adpnetworkhd-cmd.github.io/iptv/Channel5Milkshake.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
