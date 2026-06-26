@@ -2489,6 +2489,24 @@ https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8
 https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="Channel18GAC.us@SD" group-title="美国",Channel 18 GAC
 https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel10.us@SD" group-title="美国",Detroit Channel 10
+https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel21.us@SD" group-title="美国",Detroit Channel 21
+https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel22.us@SD" group-title="美国",Detroit Channel 22
+https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel68.us@SD" group-title="美国",Detroit Channel 68
+https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
+#EXTINF:-1 tvg-id="ATL26.us@SD" group-title="美国",ATL 26
+https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
+#EXTINF:-1 tvg-id="FGTV.us@SD" group-title="美国",FGTV
+https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
+#EXTINF:-1 tvg-id="Access19.us@SD" group-title="美国",Access 19
+https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="MontgomeryChannel.us@SD" group-title="美国",Montgomery Channel
+https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-id="RTViUS.us@SD" group-title="美国",RTVi US (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/RTViUS.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2933,6 +2951,20 @@ https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8
 #EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="英国",Channel 5 HD (720p)
 https://adpnetworkhd-cmd.github.io/iptv/Channel5Milkshake.m3u8
+#EXTINF:-1 tvg-id="GREATaction.uk@SD" group-title="英国",GREAT! action (576p)
+https://adpnetworkhd-cmd.github.io/iptv/GreatAction.m3u8
+#EXTINF:-1 tvg-id="GREATmystery.uk@SD" group-title="英国",GREAT! mystery (576p)
+https://adpnetworkhd-cmd.github.io/iptv/GreatMystery.m3u8
+#EXTINF:-1 tvg-id="GREATromance.uk@UK" group-title="英国",GREAT! romance (576p)
+https://adpnetworkhd-cmd.github.io/iptv/GreatRomance.m3u8
+#EXTINF:-1 tvg-id="GREATtv.uk@SD" group-title="英国",GREAT! tv (576p)
+https://adpnetworkhd-cmd.github.io/iptv/GreatTV.m3u8
+#EXTINF:-1 tvg-id="IraneFardaTV.uk@SD" group-title="英国",IraneFarda TV
+https://iranefardalive.com/stream/live.m3u8
+#EXTINF:-1 tvg-id="More4.uk@SD" group-title="英国",More4 (576p)
+https://adpnetworkhd-cmd.github.io/iptv/More4.m3u8
+#EXTINF:-1 tvg-id="Really.uk@SD" group-title="英国",Really (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Really.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
