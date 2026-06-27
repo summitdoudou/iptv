@@ -1,0 +1,10 @@
+#EXTM3U
+# ===== 汇总播放列表 =====
+# 由 iptv-org/iptv (fork) + 外部跟踪源聚合
+# 更新：README.md 中 Tracked Sources 章节同步维护
+#
+# 子播放列表（IPTV 播放器会自动递归加载）:
+#EXTINF:-1 tvg-id="" group-title="📡 跟踪源",🌐 Collect-IPTV (zilong7728) 聚合源
+https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
+#EXTINF:-1 tvg-id="" group-title="📡 自定义",🇨🇳🇬🇧 中英精选 (summitdoudou)
+https://summitdoudou.github.io/iptv/cn_en.m3u
