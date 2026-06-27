@@ -2505,8 +2505,14 @@ https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="MontgomeryChannel.us@SD" group-title="美国",Montgomery Channel
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8
-#EXTINF:-1 tvg-id="RTViUS.us@SD" group-title="美国",RTVi US (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/RTViUS.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" group-title="美国",AXN Latin America South
+http://45.228.235.116:8000/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-id="DivaAdria.us@SD" group-title="美国",Diva Adria
+https://lb.dstvmultimedia.com/Diva/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East" group-title="美国",Comedy Central (720p)
+http://rezofoot.tv/COMEDY-CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@East" group-title="美国",National Geographic (720p)
+http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2965,6 +2971,10 @@ https://iranefardalive.com/stream/live.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/More4.m3u8
 #EXTINF:-1 tvg-id="Really.uk@SD" group-title="英国",Really (576p)
 https://adpnetworkhd-cmd.github.io/iptv/Really.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Serbia" group-title="英国",AMC Europe Serbia
+https://lb.dstvmultimedia.com/AMC/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@Spain" group-title="英国",BabyTV Spain (1080p)
+http://179.60.51.134:8888/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
@@ -3331,3 +3341,5 @@ http://185.246.209.113/LOVENATUREHD/index.m3u8
 https://trs1.aynaott.com/cp24/index.m3u8
 #EXTINF:-1 tvg-id="TSN3.ca@SD" group-title="加拿大",TSN3 (720p)
 https://tsn1.shaanp76.workers.dev/
+#EXTINF:-1 tvg-id="DesheBidesheTV.ca@SD" group-title="加拿大",DesheBideshe TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
