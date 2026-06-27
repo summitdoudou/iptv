@@ -1,0 +1,6 @@
+#EXTM3U
+# ===== Collect-IPTV (zilong7728) =====
+# 基于 LLM 生成的 IPTV 聚合源，每 4 小时自动更新
+# 源：https://github.com/zilong7728/Collect-IPTV
+#EXTINF:-1 tvg-id="" group-title="Collect-IPTV",📡 Collect-IPTV 聚合源
+https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
