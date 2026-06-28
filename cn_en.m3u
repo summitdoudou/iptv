@@ -2513,6 +2513,34 @@ https://lb.dstvmultimedia.com/Diva/index.m3u8
 http://rezofoot.tv/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" group-title="美国",National Geographic (720p)
 http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD" group-title="美国",Newsmax TV (720p)
+https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsmax2.us@SD" group-title="美国",Newsmax 2 (720p)
+https://a-cdn.klowdtv.com/live3/newsmax2_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us@SD" group-title="美国",Yes Network (720p)
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="UniversalCrime.us@East" group-title="美国",Universal Crime (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" group-title="美国",National Geographic Latin America South (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NatGeo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="UniversalComedy.us@SD" group-title="美国",Universal Comedy (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+#EXTINF:-1 tvg-id="UniversalCinema.us@SD" group-title="美国",Universal Cinema (1080p)
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
+#EXTINF:-1 tvg-id="Heartland.us@Eastern" group-title="美国",Heartland (720p)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+#EXTINF:-1 tvg-id="RetroTV.us@East" group-title="美国",Retro TV (720p)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us@SD" group-title="美国",Unbeaten (1080p)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
+http://41.205.77.102/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us@SD" group-title="美国",MTV Live (576p)
+http://41.205.77.102/MTVUSA/index.m3u8
+#EXTINF:-1 tvg-id="Westerns4U.us@SD" group-title="美国",Westerns 4U (1080p)
+http://181.224.255.210:8001/play/a0rq/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="美国",Nickelodeon (720p)
+https://rezofoot.tv/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2843,8 +2871,6 @@ http://193.46.58.239:8080/Channel5/index.m3u8
 http://193.46.58.239:8080/BBCOneHD/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="英国",BBC Two HD (720p)
 http://193.46.58.239:8080/BBCTwoHD/index.m3u8
-#EXTINF:-1 tvg-id="EpicDrama.uk@Poland" group-title="英国",Epic Drama Poland (720p)
-http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" group-title="英国",AMC Europe Bulgary
 http://213.91.179.28:8000/play/a0by
 #EXTINF:-1 tvg-id="MTVGlobal.uk@SD" group-title="英国",MTV Global
@@ -2975,6 +3001,12 @@ https://adpnetworkhd-cmd.github.io/iptv/Really.m3u8
 https://lb.dstvmultimedia.com/AMC/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Spain" group-title="英国",BabyTV Spain (1080p)
 http://179.60.51.134:8888/BABY-TV/index.m3u8
+#EXTINF:-1 tvg-id="EpicDrama.uk@Poland" group-title="英国",Epic Drama Poland
+http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/52689
+#EXTINF:-1 tvg-id="KalemehTV.uk@SD" group-title="英国",Kalemeh TV
+https://kalemeh.tv/live/hls/gate.php?p=%2Flive%2Fngrp%3Akalemeh_all%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" group-title="英国",BBC Three/CBBC (720p)
+http://41.205.77.102/BBC-THREE/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
@@ -3343,3 +3375,5 @@ https://trs1.aynaott.com/cp24/index.m3u8
 https://tsn1.shaanp76.workers.dev/
 #EXTINF:-1 tvg-id="DesheBidesheTV.ca@SD" group-title="加拿大",DesheBideshe TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-id="TVOKids.ca@SD" group-title="加拿大",TVOKids (720p)
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
