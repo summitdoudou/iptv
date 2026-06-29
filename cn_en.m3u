@@ -3001,8 +3001,6 @@ https://adpnetworkhd-cmd.github.io/iptv/Really.m3u8
 https://lb.dstvmultimedia.com/AMC/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Spain" group-title="英国",BabyTV Spain (1080p)
 http://179.60.51.134:8888/BABY-TV/index.m3u8
-#EXTINF:-1 tvg-id="EpicDrama.uk@Poland" group-title="英国",Epic Drama Poland
-http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/52689
 #EXTINF:-1 tvg-id="KalemehTV.uk@SD" group-title="英国",Kalemeh TV
 https://kalemeh.tv/live/hls/gate.php?p=%2Flive%2Fngrp%3Akalemeh_all%2Fplaylist.m3u8
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" group-title="英国",BBC Three/CBBC (720p)
@@ -3352,7 +3350,7 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 #EXTINF:-1 tvg-id="TVOKids.ca@SD" group-title="加拿大",TVOKids
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 #EXTINF:-1 tvg-id="UvagutTV.ca@SD" group-title="加拿大",Uvagut TV (1080p)
-https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
+https://hls.uvagut.tv/hls/uvagut/playlist.m3u8
 #EXTINF:-1 tvg-id="WataneMaaTV.ca@SD" group-title="加拿大",Watan-e-Maa TV (720p)
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-id="WCGtv.ca@SD" group-title="加拿大",WCGtv Public (720p)
