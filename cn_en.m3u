@@ -2421,44 +2421,12 @@ https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk@SD" group-title="英国",Alhiwar TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk@RO" group-title="英国",AMC Europe [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6949/index.m3u8
 #EXTINF:-1 tvg-id="AnandTV.uk@SD" group-title="英国",Anand TV (720p) [Not 24/7]
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" group-title="英国",ATN Bangla UK (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk@Spain" group-title="英国",BabyTV Spain (1080p)
-https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Turkiye" group-title="英国",BabyTV Turkiye (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@Europe" group-title="英国",BBC News Europe (1080p)
-http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" group-title="英国",BBC News North America (1080p)
-http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" group-title="英国",BBC News Pashto (720p)
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" group-title="英国",BBC News Pashto (720p)
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:world_service_stream_07/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" group-title="英国",BBC News Pashto (720p)
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" group-title="英国",BBC News Pashto (720p)
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:world_service_stream_07/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@London" group-title="英国",BBC One (720p)
-https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@London" group-title="英国",BBC One
-https://trn09.bozztv.com/gin-bbcone/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireLincolnshire" group-title="英国",BBC One Yorkshire & Lincolnshire (1080p)
-http://92.114.85.72:8000/play/a0mp
-#EXTINF:-1 tvg-id="BBCScotland.uk@SD" group-title="英国",BBC Scotland (1080p)
-http://92.114.85.72:8000/play/a0mf
-#EXTINF:-1 tvg-id="BBCThree.uk@SD" group-title="英国",BBC Three
-https://x.canlitvapp.com/u-bbc3/index.m3u8
-#EXTINF:-1 tvg-id="BBCThree.uk@HD" group-title="英国",BBC Three HD (720p)
-https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-#EXTINF:-1 tvg-id="BBCTwo.uk@England" group-title="英国",BBC Two
-https://x.canlitvapp.com/u-bbc2/index.m3u8
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="英国",BBC Two HD (720p)
-https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 #EXTINF:-1 tvg-id="Blaze.uk@SD" group-title="英国",Blaze (576p) [Geo-blocked]
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@EMEALiveEvent" group-title="英国",Bloomberg TV EMEA Live Event (720p)
@@ -2469,20 +2437,12 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://hls.autopo.st/hls/britasiatv/index.m3u8
 #EXTINF:-1 tvg-id="Canaf54TV.uk@SD" group-title="英国",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
-#EXTINF:-1 tvg-id="CarsStarsTV.uk@SD" group-title="英国",Cars & Stars TV (1080p)
-https://iptv.prosto.tv/ch111/index.m3u8
-#EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="英国",CBeebies
-https://x.canlitvapp.com/u-cbeebies/index.m3u8
 #EXTINF:-1 tvg-id="CBeebiesAsia.uk@SD" group-title="英国",CBeebies Asia (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 #EXTINF:-1 tvg-id="CGTNEurope.uk@SD" group-title="英国",CGTN Europe
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8
 #EXTINF:-1 tvg-id="Channel4.uk@UK" group-title="英国",Channel 4 (1080p)
 http://80.194.62.172:50002/stream/channelid/1940621521
-#EXTINF:-1 tvg-id="Channel4.uk@UK" group-title="英国",Channel 4
-https://x.canlitvapp.com/u-channel-4/index.m3u8
-#EXTINF:-1 tvg-id="Channel5.uk@SD" group-title="英国",Channel 5
-https://x.canlitvapp.com/u-channel-5/index.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk@SD" group-title="英国",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk@SD" group-title="英国",CNBC UK (1080p) [Geo-blocked]
@@ -2499,8 +2459,6 @@ https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ENTFamily.uk@HD" group-title="英国",ENT Family (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="EpicDrama.uk@Ukraine" group-title="英国",Epic Drama Ukraine [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/1048/index.m3u8
 #EXTINF:-1 tvg-id="FaithWorldTV.uk@SD" group-title="英国",Faith World TV (1080p)
 https://faithworldtv.abs.tv/1826926230/index.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" group-title="英国",FIFA+ (720p)
@@ -2747,34 +2705,6 @@ http://85.14.32.26:8800/udp/239.100.10.67:5000
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Hungary" group-title="英国",AMC Europe Hungary
 http://46.149.191.217:9007/play/a01d
-#EXTINF:-1 tvg-id="BBCOne.uk@SouthWest" group-title="英国",BBC One South West (1080p)
-http://149.102.245.111/51/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@ScotlandHD" group-title="英国",BBC One Scotland HD (1080p)
-http://149.102.245.111/225/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@West" group-title="英国",BBC One West (1080p)
-http://149.102.245.111/305/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@NorthWest" group-title="英国",BBC One North West (1080p)
-http://149.102.245.111/916/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD" group-title="英国",BBC One Yorkshire HD (1080p)
-http://149.102.245.111/918/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@WalesHD" group-title="英国",BBC One Wales HD (1080p)
-http://149.102.245.111/927/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@London" group-title="英国",BBC One (1080p)
-http://149.102.245.111/1196/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@WestMidlands" group-title="英国",BBC One West Midlands (1080p)
-http://149.102.245.111/1261/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@EastMidlands" group-title="英国",BBC One East Midlands (1080p)
-http://149.102.245.111/1263/index.m3u8
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="英国",BBC Two HD (1080p)
-http://149.102.245.111/1197/index.m3u8
-#EXTINF:-1 tvg-id="ITV1.uk@London" group-title="英国",ITV1 (1080p)
-http://149.102.245.111/1198/index.m3u8
-#EXTINF:-1 tvg-id="Channel4.uk@UK" group-title="英国",Channel 4 (1080p)
-http://149.102.245.111/1199/index.m3u8
-#EXTINF:-1 tvg-id="Channel5.uk@SD" group-title="英国",Channel 5 (1080p)
-http://149.102.245.111/1242/index.m3u8
-#EXTINF:-1 tvg-id="JimJamEurope.uk@SD" group-title="英国",JimJam Europe (720p)
-https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@FranceHD" group-title="英国",BabyTV France HD (720p)
 http://41.223.30.230/BABYTV/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorMENA.uk@SD" group-title="英国",Disney Junior MENA (576p)
@@ -2787,86 +2717,16 @@ http://212.70.131.37:8000/play/a05k
 https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8
 #EXTINF:-1 tvg-id="EpicDrama.uk@ROM" group-title="英国",Epic Drama
 http://82.78.243.219:45739/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@ScotlandHD" group-title="英国",BBC One Scotland HD (1080p)
-http://109.61.81.129/225/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@NorthWest" group-title="英国",BBC One North West (1080p)
-http://109.61.81.129/916/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD" group-title="英国",BBC One Yorkshire HD (1080p)
-http://109.61.81.129/918/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@WalesHD" group-title="英国",BBC One Wales HD (1080p)
-http://109.61.81.129/927/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@WestMidlands" group-title="英国",BBC One West Midlands (720p)
-http://109.61.81.129/1261/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@EastMidlands" group-title="英国",BBC One East Midlands (396p)
-http://109.61.81.129/1263/index.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@London" group-title="英国",BBC One (1080p)
-http://109.61.81.129/1196/index.m3u8
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="英国",BBC Two HD (1080p)
-http://109.61.81.129/1197/index.m3u8
-#EXTINF:-1 tvg-id="ITV1.uk@London" group-title="英国",ITV1 (1080p)
-http://109.61.81.129/1198/index.m3u8
-#EXTINF:-1 tvg-id="Channel4.uk@UK" group-title="英国",Channel 4 (1080p)
-http://109.61.81.129/1199/index.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk@SD" group-title="英国",Crime + Investigation CEE
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" group-title="英国",BBC News North America (576p)
 http://84.17.50.102/bbcnews/index.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk@UKHD" group-title="英国",BabyTV UK HD (720p)
-https://trs1.aynaott.com/babytv/index.m3u8
-#EXTINF:-1 tvg-id="talkSPORT.uk@SD" group-title="英国",talkSPORT (576p)
-https://trs1.aynaott.com/talkSPORT/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.uk@SD" group-title="英国",Nickelodeon (576p)
-https://trs1.aynaott.com/nicklodean/index.m3u8
-#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" group-title="英国",Moonbug Kids (576p)
-https://trs1.aynaott.com/MoonbugKids/index.m3u8
-#EXTINF:-1 tvg-id="SkyNature.uk@SD" group-title="英国",Sky Nature (576p)
-https://trs1.aynaott.com/skynature/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelEMEA.uk@SD" group-title="英国",Disney Channel EMEA (576p)
 http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Greece" group-title="英国",BBC Earth Greece (1080p)
 http://185.102.171.218/BBCEarth/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Netherlands" group-title="英国",BabyTV Netherlands (576p)
 http://185.102.171.218/BabyTV/index.m3u8
-#EXTINF:-1 tvg-id="4seven.uk@SD" group-title="英国",4seven (576p)
-https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8
-#EXTINF:-1 tvg-id="5SELECT.uk@SD" group-title="英国",5SELECT (576p)
-https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8
-#EXTINF:-1 tvg-id="5STAR.uk@SD" group-title="英国",5STAR (576p)
-https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@US" group-title="英国",BBC Earth US (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/BBCEarth.m3u8
-#EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" group-title="英国",BBC Four/CBeebies (720p)
-https://adpnetworkhd-cmd.github.io/iptv/BBCFourCBeebies.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="英国",BBC One London HD (720p)
-https://adpnetworkhd-cmd.github.io/iptv/BBCOne.m3u8
-#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" group-title="英国",BBC Three/CBBC (720p)
-https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="英国",BBC Two HD (720p)
-https://adpnetworkhd-cmd.github.io/iptv/BBCTwo.m3u8
-#EXTINF:-1 tvg-id="Blaze.uk@SD" group-title="英国",Blaze (576p)
-https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8
-#EXTINF:-1 tvg-id="Challenge.uk@SD" group-title="英国",Challenge (576p)
-https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8
-#EXTINF:-1 tvg-id="Channel4.uk@UKHD" group-title="英国",Channel 4 UK HD (720p)
-https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8
-#EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="英国",Channel 5 HD (720p)
-https://adpnetworkhd-cmd.github.io/iptv/Channel5Milkshake.m3u8
-#EXTINF:-1 tvg-id="GREATaction.uk@SD" group-title="英国",GREAT! action (576p)
-https://adpnetworkhd-cmd.github.io/iptv/GreatAction.m3u8
-#EXTINF:-1 tvg-id="GREATmystery.uk@SD" group-title="英国",GREAT! mystery (576p)
-https://adpnetworkhd-cmd.github.io/iptv/GreatMystery.m3u8
-#EXTINF:-1 tvg-id="GREATromance.uk@UK" group-title="英国",GREAT! romance (576p)
-https://adpnetworkhd-cmd.github.io/iptv/GreatRomance.m3u8
-#EXTINF:-1 tvg-id="GREATtv.uk@SD" group-title="英国",GREAT! tv (576p)
-https://adpnetworkhd-cmd.github.io/iptv/GreatTV.m3u8
-#EXTINF:-1 tvg-id="IraneFardaTV.uk@SD" group-title="英国",IraneFarda TV
-https://iranefardalive.com/stream/live.m3u8
-#EXTINF:-1 tvg-id="More4.uk@SD" group-title="英国",More4 (576p)
-https://adpnetworkhd-cmd.github.io/iptv/More4.m3u8
-#EXTINF:-1 tvg-id="Really.uk@SD" group-title="英国",Really (576p)
-https://adpnetworkhd-cmd.github.io/iptv/Really.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk@Serbia" group-title="英国",AMC Europe Serbia
-https://lb.dstvmultimedia.com/AMC/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Spain" group-title="英国",BabyTV Spain (1080p)
 http://179.60.51.134:8888/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.uk@SD" group-title="英国",Kalemeh TV
