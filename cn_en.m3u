@@ -1063,6 +1063,8 @@ https://0472.org/hls/cgtn.m3u8
 http://45.165.82.19/test/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="中国",CGTN (720p)
 http://217.20.112.199:8080/cgtn/index.m3u8
+#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn@SD" group-title="中国",CND Film Middle School Channel
+http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="美国",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" group-title="美国",48 Hours (1080p)
@@ -2381,8 +2383,6 @@ https://rezofoot.tv/NICKELODEON/index.m3u8
 https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="美国",WeatherNation (1080p)
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-#EXTINF:-1 tvg-id="OANPlus.us@SD" group-title="美国",OAN Plus (1080p)
-https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" group-title="美国",Hallmark Movies & More (1080p)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-id="FXX.us@East" group-title="美国",FXX (1080p)
@@ -2399,8 +2399,22 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" group-title="美国",National Geographic (576p)
 http://84.17.50.102/nationalgeographic/index.m3u8
-#EXTINF:-1 tvg-id="Movies.us@SD" group-title="美国",Movies! (576p)
+#EXTINF:-1 tvg-id="KPVMLD251.us@HD" group-title="美国",KPVM Prime TV25
+https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KPVMLD252.us@SD" group-title="美国",KPVM Movies!
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KPVMLD253.us@HD" group-title="美国",KPVM Real America's Voice
+https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KPVMLD254.us@HD" group-title="美国",KPVM OAN Plus
+https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KPVMLD255.us@SD" group-title="美国",KPVM Newsmax 2 [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KPVMLD256.us@SD" group-title="美国",KPVM Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KPVMLD257.us@SD" group-title="美国",KPVM AWE Plus [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KPVMLD258.us@SD" group-title="美国",KPVM Ace Country Radio
+https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8
 #EXTINF:-1 tvg-id="HasbroLegends.us@SD" group-title="美国",Hasbro Legends (1080p) [Geo-blocked]
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:-1 tvg-id="REVNAction.us@SD" group-title="美国",REV'N Action (720p)
@@ -2745,6 +2759,22 @@ https://streamvidex.qzz.io/videx/telemundo/index.m3u8
 https://streamvidex.qzz.io/videx/universo/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us@East" group-title="美国",Univision (1080p)
 http://200.115.120.1:8000/play/ca106/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us@West" group-title="美国",CBS West (720p)
+http://stream.cammonitorplus.net/1798/index.m3u8
+#EXTINF:-1 tvg-id="NBC.us@East" group-title="美国",NBC (1080p)
+http://stream.cammonitorplus.net/1785/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East" group-title="美国",CBS (1080p)
+http://stream.cammonitorplus.net/1783/index.m3u8
+#EXTINF:-1 tvg-id="ABC.us@West" group-title="美国",ABC West (720p)
+http://stream.cammonitorplus.net/1797/index.m3u8
+#EXTINF:-1 tvg-id="Univision.us@West" group-title="美国",Univision West (1080p)
+http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@West" group-title="美国",Fox West (720p)
+http://stream.cammonitorplus.net/1799/index.m3u8
+#EXTINF:-1 tvg-id="UniMas.us@Mountain" group-title="美国",UniMas Mountain (1080p)
+http://168.228.44.241:9997/play/a09e/index.m3u8
+#EXTINF:-1 tvg-id="NBC.us@West" group-title="美国",NBC West (720p)
+http://stream.cammonitorplus.net/1800/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
