@@ -2775,6 +2775,18 @@ http://stream.cammonitorplus.net/1799/index.m3u8
 http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us@West" group-title="美国",NBC West (720p)
 http://stream.cammonitorplus.net/1800/index.m3u8
+#EXTINF:-1 tvg-id="FETV.us@SD" group-title="美国",FETV (720p)
+http://206.212.244.63/60/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" group-title="美国",Fox Sports 1 (720p)
+https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us@Panregional" group-title="美国",DSports 2 (1080p)
+https://streamvidex.qzz.io/videx/dsports2/index.m3u8
+#EXTINF:-1 tvg-id="DSportsPlus.us@Panregional" group-title="美国",DSports+ (720p)
+https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional" group-title="美国",DSports (1080p)
+https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
+#EXTINF:-1 tvg-id="ComercioTV.us@SD" group-title="美国",Comercio TV (720p)
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/basket_TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3105,6 +3117,16 @@ http://206.212.244.63/14/index.m3u8
 http://206.212.244.63/641/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" group-title="英国",JimJam Europe (720p)
 http://212.5.144.156:8080/jimjam/index.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk@LondonHD" group-title="英国",ITV1 London HD (720p)
+http://45.153.96.44:8006
+#EXTINF:-1 tvg-id="ITV2.uk@HD" group-title="英国",ITV2 HD (1080p)
+http://45.153.96.44:8007
+#EXTINF:-1 tvg-id="ITV3.uk@Plus1" group-title="英国",ITV3 +1 (720p)
+http://45.153.96.44:8008
+#EXTINF:-1 tvg-id="ITV4.uk@HD" group-title="英国",ITV4 HD (720p)
+http://45.153.96.44:8009
+#EXTINF:-1 tvg-id="BBCNews.uk@UKHD" group-title="英国",BBC News UK HD (1080p)
+http://45.153.96.44:8001
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
