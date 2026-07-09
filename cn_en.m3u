@@ -1067,6 +1067,8 @@ http://217.20.112.199:8080/cgtn/index.m3u8
 http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" group-title="中国",CGTN Spanish (1080p)
 http://45.6.4.35/CGTN/index.m3u8
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" group-title="中国",Nei Monggol TV (1080i) [Not 24/7]
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="美国",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" group-title="美国",48 Hours (1080p)
@@ -2255,10 +2257,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fierrofondo.stream/playlist.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiMusicTV.us@SD" group-title="美国",IndiMusic TV (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/musictv/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="美国",Disney Channel (720p)
-https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="美国",Disney Junior (720p)
-https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US" group-title="美国",Bloomberg TV (1080p)
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="美国",DreamWorks Channel Latin America (576p)
@@ -2647,8 +2645,6 @@ http://41.223.30.230/AMC/index.m3u8
 http://40.160.24.55/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="BET.us@East" group-title="美国",BET (720p)
 http://84.17.50.102/bet/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="美国",Disney Junior (576p)
-http://84.17.50.102/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="FX.us@East" group-title="美国",FX (720p)
 http://84.17.50.102/fx/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" group-title="美国",Tennis Channel (720p)
@@ -2663,16 +2659,12 @@ http://206.212.244.63/147/index.m3u8
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@West" group-title="美国",Disney Junior West (720p)
 http://206.212.244.63/655/index.m3u8
-#EXTINF:-1 tvg-id="TeenNick.us@East" group-title="美国",TeenNick (720p)
-http://206.212.244.63/670/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" group-title="美国",Telemundo Internacional (1080p)
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="美国",NBA TV (720p)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD" group-title="美国",NFL Network (720p)
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@East" group-title="美国",Disney XD (480p)
-http://84.17.50.102/disneyxd/index.m3u8
 #EXTINF:-1 tvg-id="MSNOW.us@SD" group-title="美国",MS NOW (720p)
 http://41.223.30.230/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="美国",Nickelodeon (720p)
@@ -2929,6 +2921,42 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us@East" group-title="美国",NBC Universo (720p)
 http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="美国",Studio Universal Latin America Brazil (720p)
+http://167.250.126.140:7777/STUDIOUNIVERSAL-HD/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" group-title="美国",History 2 Latin America Brazil (720p)
+http://167.250.126.140:7777/H2-HD/index.m3u8
+#EXTINF:-1 tvg-id="ELatinAmerica.us@Brazil" group-title="美国",E! Latin America Brazil (720p)
+http://167.250.126.140:7777/E!-HD/index.m3u8
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="美国",Pasiones Latin America (1080p)
+http://45.224.97.181:9999/Pasiones/index.m3u8
+#EXTINF:-1 tvg-id="DHE.us@SD" group-title="美国",DHE (1080p)
+http://177.245.131.133:8080/DHE/index.m3u8
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="美国",Hola! TV Latin America (1080p)
+http://177.245.131.133:8080/HOLA/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" group-title="美国",National Geographic Latin America (720p)
+http://177.245.131.133:8080/NATGEO/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" group-title="美国",AMC Latin America (1080p)
+http://45.171.108.253:8888/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" group-title="美国",AXN Latin America Andes (1080p)
+http://138.186.23.7:8082/AXN/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" group-title="美国",Star Channel Latin America (1080p)
+http://138.186.23.7:8082/STARCHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@SD" group-title="美国",TNT Novelas (1080p)
+http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" group-title="美国",History Latin America (1080p)
+http://138.186.23.7:8082/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" group-title="美国",History 2 Latin America (1080p)
+http://138.186.23.7:8082/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" group-title="美国",Universal TV Latin America (1080p)
+http://138.186.23.7:8082/STUDIOUNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@SD" group-title="美国",USA Network Latin America (1080p)
+http://138.186.23.7:8082/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" group-title="美国",Sony Channel Andes (1080p)
+http://138.186.23.7:8082/SONYCHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="美国",Nickelodeon Latin America (1080p)
+http://138.186.23.7:8082/NICK/index.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="美国",Nick Jr. Latin America (1080p)
+http://138.186.23.7:8082/NICKJR/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
