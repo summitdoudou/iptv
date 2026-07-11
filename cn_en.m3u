@@ -1069,6 +1069,8 @@ http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 http://45.6.4.35/CGTN/index.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" group-title="中国",Nei Monggol TV (1080i) [Not 24/7]
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn@SD" group-title="中国",CND Film Middle School Channel
+http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="美国",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" group-title="美国",48 Hours (1080p)
@@ -1177,7 +1179,7 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f1
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
 #EXTINF:-1 tvg-id="AvangTV.us@SD" group-title="美国",Avang TV (1080p)
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AWEEncore.us@SD" group-title="美国",AWE Encore (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AWEPlus.us@SD" group-title="美国",AWE Plus (720p)
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Romania" group-title="美国",AXN Black Romania [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
@@ -1305,9 +1307,11 @@ https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.us@France" group-title="美国",Clubbing TV France
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us@SD" group-title="美国",CMC (California Music Channel) (1080p)
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us@SD" group-title="美国",CMC California Music Channel (1080p) [Geo-blocked]
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us@SD" group-title="美国",CMC California Music Channel (1080p) [Geo-blocked]
 https://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us@SD" group-title="美国",CMC-USA (California Music Channel) (720p)
+#EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us@SD" group-title="美国",CMC-USA Country Music Channel (720p)
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" group-title="美国",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -1689,7 +1693,7 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 https://live.ntdtv.com/uwlive990/playlist.m3u8
 #EXTINF:-1 tvg-id="NYXT.us@SD" group-title="美国",NYXT (1080p)
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
-#EXTINF:-1 tvg-id="OANEncore.us@SD" group-title="美国",OAN Encore (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OANPlus.us@SD" group-title="美国",OAN Plus (720p)
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 #EXTINF:-1 tvg-id="OCNTV.us@SD" group-title="美国",OCN TV
 https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
@@ -2979,6 +2983,286 @@ http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8
 http://177.234.249.135:8888/EWTN/index.m3u8
 #EXTINF:-1 tvg-id="KATC31.us@HD" group-title="美国",KATC 3.1 (1080p)
 http://stream.cammonitorplus.net/1753/index.m3u8
+#EXTINF:-1 tvg-id="AmuTV.us@SD" group-title="美国",Amu TV
+https://jmc-live.ercdn.net/amutv/amutv.m3u8
+#EXTINF:-1 tvg-id="GunAzTV.us@SD" group-title="美国",GunAz TV
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="VisionLatinaNetwork.us@SD" group-title="美国",Vision Latina Network (1080p)
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8
+#EXTINF:-1 tvg-id="KWHY631.us@HD" group-title="美国",KWHY 63.1 (720p)
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
+#EXTINF:-1 tvg-id="NewsmaxSpanish.us@SD" group-title="美国",Newsmax Spanish (1080p)
+https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="AltitudeSports.us@SD" group-title="美国",Altitude Sports (720p)
+http://206.212.244.63/6153/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD" group-title="美国",Tennis Channel (720p)
+http://206.212.244.63/6149/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsChicago.us@SD" group-title="美国",NBC Sports Chicago (720p)
+http://206.212.244.63/6141/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelRacing.us@SD" group-title="美国",FanDuel Racing (720p)
+http://206.212.244.63/6139/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelTV.us@SD" group-title="美国",FanDuel TV (720p)
+http://206.212.244.63/6138/index.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us@SD" group-title="美国",Dove Channel (720p)
+http://206.212.244.63/6134/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East" group-title="美国",TeenNick (720p)
+http://40.160.24.55/TEEN_NICK/index.m3u8
+#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" group-title="美国",Sony Movies Latin America (720p)
+http://40.160.24.55/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East" group-title="美国",Hallmark Channel (1080p)
+http://40.160.24.53/HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkFamily.us@SD" group-title="美国",Hallmark Family (1080p)
+http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMystery.us@East" group-title="美国",Hallmark Mystery (1080p)
+http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us@East" group-title="美国",MTV2 (1080p)
+http://40.160.24.53/MTV2/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us@SD" group-title="美国",MTV Live (1080p)
+http://40.160.24.53/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us@SD" group-title="美国",World Fishing Network (1080p)
+http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@HD" group-title="美国",Outdoor Channel HD (1080p)
+http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="GreatAmericanFamily.us@SD" group-title="美国",Great American Family (1080p)
+http://40.160.24.58/GAC_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" group-title="美国",SportsNet New York (1080p)
+http://40.160.24.55/SNY/index.m3u8
+#EXTINF:-1 tvg-id="JusticeCentralTV.us@SD" group-title="美国",Justice Central TV (720p)
+http://40.160.24.53/JUSTICE_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.us@SD" group-title="美国",Revolt (720p)
+http://40.160.24.58/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="Dabl.us@SD" group-title="美国",Dabl (720p)
+http://40.160.24.56/DABL/index.m3u8
+#EXTINF:-1 tvg-id="StartTV.us@SD" group-title="美国",Start TV (720p)
+http://40.160.24.55/START_TV/index.m3u8
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" group-title="美国",CBS News 24/7 (720p)
+http://40.160.24.56/CBS_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" group-title="美国",Fox Business Network (720p)
+http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East" group-title="美国",Lifetime (720p)
+http://40.160.24.53/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East" group-title="美国",Lifetime Movies (720p)
+http://40.160.24.53/LMN/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East" group-title="美国",History (720p)
+http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="GameShowNetwork.us@East" group-title="美国",Game Show Network (720p)
+http://40.160.24.52/GSN/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us@East" group-title="美国",Fuse (720p)
+http://40.160.24.52/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="Grit.us@SD" group-title="美国",Grit (1080p)
+http://40.160.24.52/GRIT/index.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us@SD" group-title="美国",Court TV (1080p)
+http://40.160.24.52/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-id="GreatAmericanFaithLiving.us@SD" group-title="美国",Great American Faith & Living (1080p)
+http://40.160.24.52/GAC_LIVING/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us@East" group-title="美国",BET Her (720p)
+http://40.160.24.52/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@East" group-title="美国",BET (720p)
+http://40.160.24.52/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@West" group-title="美国",BET West (720p)
+http://40.160.24.52/BET_WEST/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us@West" group-title="美国",VH1 West (720p)
+http://40.160.24.55/VH1_WEST/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us@East" group-title="美国",VH1 (720p)
+http://40.160.24.55/VH1/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East" group-title="美国",Disney XD (720p)
+http://40.160.24.52/DISNEY_XD_HD/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East" group-title="美国",Paramount Network (720p)
+http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East" group-title="美国",Comedy Central (1080p)
+http://40.160.24.52/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="Comet.us@SD" group-title="美国",Comet (1080p)
+http://40.160.24.52/COMET/index.m3u8
+#EXTINF:-1 tvg-id="Charge.us@SD" group-title="美国",Charge! (1080p)
+http://40.160.24.52/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="AE.us@East" group-title="美国",A&E (720p)
+http://40.160.24.52/AE/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@East" group-title="美国",Fox (720p)
+http://40.160.24.52/FOX/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
+http://40.160.24.52/FOX_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ABC.us@East" group-title="美国",ABC (720p)
+http://40.160.24.52/ABC/index.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us@SD" group-title="美国",ESPN Deportes (720p)
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us@East" group-title="美国",Freeform (720p)
+http://40.160.24.52/FREEFORM/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East" group-title="美国",FX (720p)
+http://40.160.24.52/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East" group-title="美国",FXX (720p)
+http://40.160.24.52/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FXM.us@East" group-title="美国",FXM (720p)
+http://40.160.24.52/FXM/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD" group-title="美国",ESPNU (720p)
+http://40.160.24.52/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ESPNews.us@SD" group-title="美国",ESPNews (720p)
+http://40.160.24.52/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD" group-title="美国",ACC Network (720p)
+http://40.160.24.52/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us@SD" group-title="美国",SEC Network (720p)
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MSG.us@SD" group-title="美国",MSG (720p)
+http://40.160.24.52/MSG/index.m3u8
+#EXTINF:-1 tvg-id="MSG2.us@SD" group-title="美国",MSG 2 (720p)
+http://40.160.24.52/MSG_2/index.m3u8
+#EXTINF:-1 tvg-id="MSGPlus.us@SD" group-title="美国",MSG Plus (720p)
+http://40.160.24.52/MSG_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD" group-title="美国",NBA TV (720p)
+http://40.160.24.58/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD" group-title="美国",NHL Network (720p)
+http://40.160.24.55/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="PursuitChannel.us@SD" group-title="美国",Pursuit Channel (1080p)
+http://40.160.24.55/PURSUIT/index.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us@SD" group-title="美国",AXS TV (720p)
+http://40.160.24.52/AXS_TV/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@HDEast" group-title="美国",Disney Channel HD East (720p)
+http://40.160.24.52/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="美国",Disney Junior (720p)
+http://40.160.24.52/Disney_JR/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" group-title="美国",NFL Network (720p)
+http://40.160.24.53/NFL_Network/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD" group-title="美国",MLB Network (720p)
+http://40.160.24.52/MLB_Network/index.m3u8
+#EXTINF:-1 tvg-id="SportsmanChannel.us@SD" group-title="美国",Sportsman Channel (720p)
+http://40.160.24.55/Sportsman_Channel/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@EastHD" group-title="美国",BBC America East HD (720p)
+http://40.160.24.52/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us@SD" group-title="美国",Outside TV (720p)
+http://40.160.24.55/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="AWE.us@SD" group-title="美国",AWE (720p)
+http://40.160.24.52/AWE/index.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD" group-title="美国",Newsmax TV (720p)
+http://40.160.24.53/NEWSMAX/index.m3u8
+#EXTINF:-1 tvg-id="CoziTV.us@SD" group-title="美国",Cozi TV (1080p)
+http://40.160.24.52/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-id="UpTV.us@SD" group-title="美国",Up TV (1080p)
+http://40.160.24.55/Up_TV/index.m3u8
+#EXTINF:-1 tvg-id="NBCSN.us@SD" group-title="美国",NBCSN (720p)
+http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD" group-title="美国",CBS Sports Network USA (720p)
+http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeRealWomen.us@SD" group-title="美国",Lifetime Real Women (576p)
+http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD" group-title="美国",Golf Channel (1080p)
+http://40.160.24.52/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us@SD" group-title="美国",Fox Soccer Plus (720p)
+http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD" group-title="美国",Big Ten Network (720p)
+http://40.160.24.52/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD" group-title="美国",Scripps News (720p)
+http://40.160.24.53/SCRIPPS_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="美国",WeatherNation (1080p)
+http://40.160.24.55/WEATHER_NATION/index.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNetwork.us@SD" group-title="美国",AccuWeather Network (1080p)
+http://40.160.24.52/AccuWeather/index.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannel.us@SD" group-title="美国",The Cowboy Channel (1080p)
+http://40.160.24.52/THE_COWBOY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="MSNOW.us@SD" group-title="美国",MS NOW (720p)
+http://40.160.24.53/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.us@SD" group-title="美国",NewsNation (720p)
+http://40.160.24.58/NEWSNATION/index.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us@SD" group-title="美国",Cheddar News (720p)
+http://40.160.24.52/CHEDDAR_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="CheddarU.us@SD" group-title="美国",CheddarU (720p)
+http://40.160.24.52/CHEDDAR_BUSINESS/index.m3u8
+#EXTINF:-1 tvg-id="IONPlus.us@East" group-title="美国",ION Plus (720p)
+http://40.160.24.53/ION_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="IONTV.us@East" group-title="美国",ION TV (720p)
+http://40.160.24.53/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us@SD" group-title="美国",Laff (1080p)
+http://40.160.24.53/LAFF_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.us@SD" group-title="美国",Bounce (1080p)
+http://40.160.24.58/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us@SD" group-title="美国",Yes Network (720p)
+http://40.160.24.55/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us@SD" group-title="美国",BET Soul (576p)
+http://40.160.24.52/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us@SD" group-title="美国",BET Jams (576p)
+http://40.160.24.52/BET_JAMS/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us@East" group-title="美国",MTV Classic (576p)
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="NESN.us@SD" group-title="美国",NESN (720p)
+http://40.160.24.52/NESN/index.m3u8
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us@SD" group-title="美国",Marquee Sports Network (1080p)
+http://40.160.24.52/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="QVC.us@SD" group-title="美国",QVC (720p)
+http://40.160.24.55/QVC/index.m3u8
+#EXTINF:-1 tvg-id="HSN.us@East" group-title="美国",HSN (720p)
+http://40.160.24.53/HSN/index.m3u8
+#EXTINF:-1 tvg-id="RacerNetwork.us@SD" group-title="美国",Racer Network (720p)
+http://40.160.24.52/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-id="CleoTV.us@SD" group-title="美国",Cleo TV (720p)
+http://40.160.24.52/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-id="CMT.us@East" group-title="美国",CMT (720p)
+http://40.160.24.52/CMT/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East" group-title="美国",Bravo (1080p)
+http://40.160.24.52/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@West" group-title="美国",Bravo West (1080p)
+http://40.160.24.52/BRAVO_WEST/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@West" group-title="美国",USA Network West (1080p)
+http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
+#EXTINF:-1 tvg-id="CatchyComedy.us@SD" group-title="美国",Catchy Comedy (720p)
+http://40.160.24.52/DECADES/index.m3u8
+#EXTINF:-1 tvg-id="MeTV.us@SD" group-title="美国",MeTV (720p)
+http://40.160.24.53/METV/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional" group-title="美国",DSports (720p)
+http://200.91.32.158:8080/dsportshd/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us@Panregional" group-title="美国",DSports 2 (720p)
+http://200.91.32.158:8080/dsports2hd/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" group-title="美国",Star Channel Latin America South (720p)
+http://200.91.32.158:8080/starchannel/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" group-title="美国",FX Latin America South (576p)
+http://200.91.32.158:8080/fx/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@South" group-title="美国",Cinecanal South (576p)
+http://200.91.32.158:8080/cinecanal/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" group-title="美国",National Geographic Latin America South (720p)
+http://200.91.32.158:8080/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" group-title="美国",TNT Novelas (720p)
+http://200.91.32.158:8080/tntnovelas/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" group-title="美国",AXN Latin America South (720p)
+http://200.91.32.158:8080/axn/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" group-title="美国",History Latin America (720p)
+http://200.91.32.158:8080/history/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" group-title="美国",History 2 Latin America (720p)
+http://200.91.32.158:8080/history2/index.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@South" group-title="美国",A&E Latin America South (720p)
+http://200.91.32.158:8080/ae/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" group-title="美国",Lifetime Latin America (720p)
+http://200.91.32.158:8080/lifetime/index.m3u8
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" group-title="美国",MTV Latin America (720p)
+http://200.91.32.158:8080/mtvhd/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" group-title="美国",Comedy Central Latin America (720p)
+http://200.91.32.158:8080/paramount/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="美国",AMC Latin America (720p)
+http://200.91.32.158:8080/amc/index.m3u8
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" group-title="美国",AMC Series Latin America (720p)
+http://200.91.32.158:8080/amcserieshd/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@South" group-title="美国",Studio Universal Latin America South (720p)
+http://200.91.32.158:8080/studiouniversal/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil" group-title="美国",USA Network Latin America Brazil (720p)
+http://200.91.32.158:8080/syfy/index.m3u8
+#EXTINF:-1 tvg-id="ELatinAmerica.us@South" group-title="美国",E! Latin America (720p)
+http://200.91.32.158:8080/entertainment/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" group-title="美国",Telemundo Internacional (720p)
+http://200.91.32.158:8080/telemundo/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" group-title="美国",USA Network Latin America (720p)
+http://200.91.32.158:8080/usanetwork/index.m3u8
+#EXTINF:-1 tvg-id="UniversalCinema.us@SD" group-title="美国",Universal Cinema (720p)
+http://200.91.32.158:8080/universalcinemahd/index.m3u8
+#EXTINF:-1 tvg-id="UniversalReality.us@SD" group-title="美国",Universal Reality (720p)
+http://200.91.32.158:8080/universalrealityhd/index.m3u8
+#EXTINF:-1 tvg-id="UniversalCrime.us@SD" group-title="美国",Universal Crime (720p)
+http://200.91.32.158:8080/universalcrimehd/index.m3u8
+#EXTINF:-1 tvg-id="UniversalPremiere.us@East" group-title="美国",Universal Premiere (720p)
+http://200.91.32.158:8080/universalpremierehd/index.m3u8
+#EXTINF:-1 tvg-id="UniMas.us@West" group-title="美国",UniMas West (1080p) [Geo-blocked]
+http://108.181.20.255:27347/livehttpplay?channel_id=23093
+#EXTINF:-1 tvg-id="Galavision.us@West" group-title="美国",Galavision West (720p) [Geo-blocked]
+http://108.181.20.255:27347/livehttpplay?channel_id=23091
+#EXTINF:-1 tvg-id="Galavision.us@East" group-title="美国",Galavision (1080p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23090
+#EXTINF:-1 tvg-id="UniMas.us@East" group-title="美国",UniMas (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23094
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3223,8 +3507,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" group-title="英国",Totalmusic Dance (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="TraceUK.uk@HD" group-title="英国",Trace UK (720p)
-https://channels.trace.plus/Traceprod/UK_FAST/abr.m3u8
 #EXTINF:-1 tvg-id="TVOne.uk@SD" group-title="英国",TV One (576p)
 http://92.114.85.72:8000/play/a070
 #EXTINF:-1 tvg-id="TVWarehouse.uk@SD" group-title="英国",TV Warehouse (720p)
@@ -3327,6 +3609,10 @@ http://138.121.15.230:9002/BABY-TV/index.m3u8
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" group-title="英国",BBC News Europe (576p)
 http://46.32.176.50/bbcworld/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" group-title="英国",BBC News North America (720p)
+http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" group-title="英国",BabyTV Latin America (720p)
+http://200.91.32.158:8080/babytv/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
@@ -3723,3 +4009,19 @@ http://40.160.24.53/HGTV/index.m3u8
 http://stream.cammonitorplus.net/1712/index.m3u8
 #EXTINF:-1 tvg-id="CTV2Atlantic.ca@SD" group-title="加拿大",CTV 2 Atlantic (720p)
 http://stream.cammonitorplus.net/1731/index.m3u8
+#EXTINF:-1 tvg-id="WNetwork.ca@SD" group-title="加拿大",W Network (720p)
+http://40.160.24.55/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Slice.ca@SD" group-title="加拿大",Slice (720p)
+http://40.160.24.55/SLICE/index.m3u8
+#EXTINF:-1 tvg-id="Much.ca@SD" group-title="加拿大",Much (720p)
+http://40.160.24.53/MUCH/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca@SD" group-title="加拿大",TSN1 (1080p)
+http://40.160.24.55/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca@SD" group-title="加拿大",TSN2 (1080p)
+http://40.160.24.55/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca@SD" group-title="加拿大",TSN3 (1080p)
+http://40.160.24.55/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca@SD" group-title="加拿大",TSN4 (1080p)
+http://40.160.24.55/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca@SD" group-title="加拿大",TSN5 (1080p)
+http://40.160.24.55/TSN_5/index.m3u8
