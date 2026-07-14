@@ -3391,6 +3391,16 @@ https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg0
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-id="ZoomNews.us@SD" group-title="美国",Zoom TV Kurdish (720p)
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
+#EXTINF:-1 tvg-id="BarkTV.us@SD" group-title="美国",Bark TV (1080p)
+https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
+#EXTINF:-1 tvg-id="NBCLXHome.us@HD" group-title="美国",NBC LX Home (1080p)
+https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:-1 tvg-id="CineFamiliar.us@SD" group-title="美国",Cine Familiar
+http://177.234.218.66:8084/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="CanalInfantil.us@SD" group-title="美国",Canal Infantil
+http://177.234.218.66:8084/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="NorCastWeather.us@HD" group-title="美国",NorCast Weather (1080p)
+https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3433,20 +3443,12 @@ http://185.102.171.218/BabyTV/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@US" group-title="英国",BabyTV US (576p)
 http://206.212.244.63/641/index.m3u8
-#EXTINF:-1 tvg-id="BBCBrit.uk@Poland" group-title="英国",BBC Brit
-http://81.15.109.89:8001/play/BBCBrit
-#EXTINF:-1 tvg-id="BBCEarth.uk@Poland" group-title="英国",BBC Earth
-http://81.15.109.89:8001/play/BBCEarth
 #EXTINF:-1 tvg-id="BBCEarth.uk@Greece" group-title="英国",BBC Earth Greece (1080p)
 http://185.102.171.218/BBCEarth/index.m3u8
-#EXTINF:-1 tvg-id="BBCFirst.uk@Poland" group-title="英国",BBC First
-http://81.15.109.89:8001/play/BBCFirst
 #EXTINF:-1 tvg-id="BBCFirst.uk@Poland" group-title="英国",BBC First
 http://91.146.94.234:10001/play/a087
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" group-title="英国",BBC Four/CBeebies (720p)
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
-#EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland" group-title="英国",BBC Lifestyle Poland
-http://81.15.109.89:8001/play/BBCLifestyle
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" group-title="英国",BBC News Europe (576p)
 http://46.32.176.50/bbcworld/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@LatinAmerica" group-title="英国",BBC News Latin America (720p)
@@ -3743,6 +3745,8 @@ http://69.64.57.208/voxafrica/playlist.m3u8
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTVUK.uk@HD" group-title="英国",Zee TV UK HD (1080p)
 https://mini.allinonereborn.fun/tata.php?id=11783
+#EXTINF:-1 tvg-id="MTVGlobal.uk@SD" group-title="英国",MTV Global (576p)
+https://shift03.isp.bg/MTVEurope/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
