@@ -1071,6 +1071,12 @@ http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
 #EXTINF:-1 tvg-id="HeilongjiangTV.cn@SD" group-title="中国",黑龙江卫视 (2160p)
 http://118.81.195.79:9003/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="XinjiangTV2.cn@SD" group-title="中国",Xinjiang TV 2
+https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0
+#EXTINF:-1 tvg-id="XinjiangTV1.cn@SD" group-title="中国",Xinjiang TV 1
+https://p8.vzan.com/218800995/242196610130883766/live.m3u8?zbid=218800995&tpid=208366456
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" group-title="中国",CGTN French (1080p)
+http://145.239.5.177/214/index.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="美国",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" group-title="美国",48 Hours (1080p)
@@ -1653,6 +1659,8 @@ http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
 https://5b622f07944df.streamlock.net/csat.tv/csat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CSatTV.us@SD" group-title="美国",CSat TV (1080p) [Not 24/7]
 https://5d12bc59c4748.streamlock.net/redirect/csat.tv/csat.smil?type=m3u8
+#EXTINF:-1 tvg-id="CTN.us@SD" group-title="美国",CTN (720p)
+https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
 #EXTINF:-1 tvg-id="CTNCourtFeed.us@SD" group-title="美国",CT-N Court Feed (360p) [Not 24/7]
 http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="CTNLiveStream2.us@SD" group-title="美国",CT-N Live Stream 2 (360p) [Not 24/7]
@@ -2949,6 +2957,10 @@ https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TBNPacific.us@SD" group-title="美国",TBN Pacific
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TCT.us@SD" group-title="美国",TCT (1080p)
+https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u8
+#EXTINF:-1 tvg-id="TCT.us@SD" group-title="美国",TCT (1080p)
+https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us@East" group-title="美国",TeenNick (720p)
 http://40.160.24.55/TEEN_NICK/index.m3u8
 #EXTINF:-1 tvg-id="TeleBoston.us@SD" group-title="美国",Tele Boston (480p)
@@ -3401,6 +3413,20 @@ http://177.234.218.66:8084/play/a001/index.m3u8
 http://177.234.218.66:8084/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="NorCastWeather.us@HD" group-title="美国",NorCast Weather (1080p)
 https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
+#EXTINF:-1 tvg-id="SonicTV.us@SD" group-title="美国",Sonic TV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
+#EXTINF:-1 tvg-id="ComercioTV.us@SD" group-title="美国",Comercio TV (720p)
+https://amg00082-tarima-amg00082c1-tunein-us-7960.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-tuneinus/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" group-title="美国",TNT Novelas Brazil (720p)
+http://177.52.24.163/TNT-NOVELAS-HD/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East" group-title="美国",SYFY (1080p)
+https://gpuserver5.tier1streams.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East" group-title="美国",USA Network (1080p)
+https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusDriveIn.us@SD" group-title="美国",MGM+ Drive-In (720p)
+http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
+#EXTINF:-1 tvg-id="WGNDT1.us@SD" group-title="美国",WGN-DT1 (720p)
+http://40.160.24.55/WGN/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3745,8 +3771,12 @@ http://69.64.57.208/voxafrica/playlist.m3u8
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTVUK.uk@HD" group-title="英国",Zee TV UK HD (1080p)
 https://mini.allinonereborn.fun/tata.php?id=11783
+#EXTINF:-1 tvg-id="HellenicTV.uk@SD" group-title="英国",Hellenic TV (720p) [Not 24/7]
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVGlobal.uk@SD" group-title="英国",MTV Global (576p)
 https://shift03.isp.bg/MTVEurope/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="英国",BBC One London HD (720p)
+http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
