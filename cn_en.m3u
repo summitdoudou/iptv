@@ -3295,7 +3295,7 @@ http://108.181.20.255:27347/livehttpplay?channel_id=23089
 http://108.181.20.255:27347/livehttpplay?channel_id=23088
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="美国",Disney Channel (720p)
 http://190.14.10.19:16000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="美国",Disney Junior (1080p)
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North" group-title="美国",Disney Jr. Latin America (1080p)
 http://190.14.10.19:16000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Brazil" group-title="美国",E! Latin America Brazil (432p)
 http://145.239.5.177/111/index.m3u8
@@ -3347,6 +3347,14 @@ http://tvsen7.aynascope.net/ibtvusa/index.m3u8
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us@Global" group-title="美国",News of the World (720p)
 https://nowhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East" group-title="美国",TeenNick (576p)
+http://tvsen7.aynascope.net/teennick/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East" group-title="美国",CBS (576p)
+http://tvsen7.aynascope.net/cbs/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@East" group-title="美国",Fox (720p)
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1 tvg-id="DogTV.us@SD" group-title="美国",Dog TV (720p)
+http://46.151.196.223:14382
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3695,6 +3703,8 @@ http://stream.mcquack.net/150/index.m3u8
 http://stream.mcquack.net/85/index.m3u8
 #EXTINF:-1 tvg-id="TVOne.uk@SD" group-title="英国",TV One (576p)
 http://tvsen7.aynascope.net/tvone/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk@SD" group-title="英国",Nickelodeon (576p)
+http://tvsen7.aynascope.net/nicklodean/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
@@ -4111,3 +4121,5 @@ https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperChannelVault.ca@SD" group-title="加拿大",Super Channel Vault (1080p)
 http://206.212.244.63/6142/index.m3u8
+#EXTINF:-1 tvg-id="FamilyJr.ca@SD" group-title="加拿大",Family Jr (576p)
+http://tvsen5.aynascope.net/familyjr/index.m3u8
