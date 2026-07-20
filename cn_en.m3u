@@ -3355,6 +3355,10 @@ http://tvsen7.aynascope.net/cbs/index.m3u8
 http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="DogTV.us@SD" group-title="美国",Dog TV (720p)
 http://46.151.196.223:14382
+#EXTINF:-1 tvg-id="TheQIndia.us@SD" group-title="美国",The Q India (576p)
+http://103.175.73.12:8080/live/25/25_0.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us@SD" group-title="美国",Willow Sports (1080p) [Geo-blocked]
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
