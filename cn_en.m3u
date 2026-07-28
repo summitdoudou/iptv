@@ -1220,8 +1220,6 @@ http://45.171.108.253:8888/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" group-title="美国",AMC Latin America (1080p)
 http://177.234.249.178:8888/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" group-title="美国",AMC Latin America Brazil (1080p)
-http://45.190.156.152/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" group-title="美国",AMC Latin America Brazil (1080p)
 https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@SD" group-title="美国",AMC Series Latin America (1080p)
 http://177.245.131.133:8080/AMCSERIES/index.m3u8
@@ -1669,8 +1667,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2226
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@South" group-title="美国",E! Latin America (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ELatinAmerica.us@Brazil" group-title="美国",E! Latin America Brazil (720p)
-http://45.190.156.152/E/index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Brazil" group-title="美国",E! Latin America Brazil (720p)
 http://167.250.126.140:7777/E!-HD/index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" group-title="美国",E! Latin America Mexico (720p)
@@ -2720,8 +2716,6 @@ http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" group-title="美国",Studio Universal Latin America (1080p)
 http://138.186.23.7:8082/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="美国",Studio Universal Latin America Brazil (720p)
-http://45.190.156.152/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="美国",Studio Universal Latin America Brazil (720p)
 http://167.250.126.140:7777/STUDIOUNIVERSAL-HD/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="美国",Studio Universal Latin America Brazil (720p)
 http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8
@@ -2953,8 +2947,6 @@ http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
 http://138.186.23.7:8082/STUDIOUNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" group-title="美国",Universal TV Latin America (1080p)
 http://177.234.249.178:8888/UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Brazil" group-title="美国",Universal TV Latin America Brazil (720p)
-http://45.190.156.152/UNIVERSAL_TV/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Mexico" group-title="美国",Universal TV Latin America Mexico (1080p)
 http://177.245.131.133:8080/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us@East" group-title="美国",Univision (1080p)
@@ -2977,8 +2969,6 @@ http://138.186.23.7:8082/SYFY/index.m3u8
 http://177.234.249.178:8888/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" group-title="美国",USA Network Latin America (720p)
 http://200.91.32.158:8080/usanetwork/index.m3u8
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil" group-title="美国",USA Network Latin America Brazil (1080p)
-http://45.190.156.152/USA/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil" group-title="美国",USA Network Latin America Brazil (720p)
 http://167.250.126.140:7777/SYFY-HD/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil" group-title="美国",USA Network Latin America Brazil (720p)
@@ -3351,10 +3341,6 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w
 http://tvsen7.aynascope.net/laff/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="美国",DreamWorks Channel Latin America (1080p)
 https://live.nxplay.com.br/DREAMWORKS/index.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.us@SD" group-title="美国",AXN White (576p)
-https://aes.m3u8simplu.workers.dev/axnwhite/index.m3u8
-#EXTINF:-1 tvg-id="AXNBlack.us@Romania" group-title="美国",AXN Black Romania (406p)
-https://aes.m3u8simplu.workers.dev/axnblack/index.m3u8
 #EXTINF:-1 tvg-id="MuslimNetworkTV.us@SD" group-title="美国",Muslim Network TV
 https://afghantv.app/hls2/muslimnetwork/index.m3u8
 #EXTINF:-1 tvg-id="AE.us@East" group-title="美国",A&E (1080p)
@@ -3611,28 +3597,8 @@ http://181.119.66.28:8081/Lifetime-HD/index.m3u8
 http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-id="Logo.us@East" group-title="美国",Logo (720p)
 http://40.160.24.53/LOGO_TV/index.m3u8
-#EXTINF:-1 tvg-id="FXM.us@East" group-title="美国",FXM (720p)
-https://sra72yz.s.gy/live-view
-#EXTINF:-1 tvg-id="FX.us@West" group-title="美国",FX West (1080p)
-https://sra72yz.s.gy/fx-west
-#EXTINF:-1 tvg-id="FXX.us@West" group-title="美国",FXX West (720p)
-https://sra72yz.s.gy/fxx-west
-#EXTINF:-1 tvg-id="SYFY.us@West" group-title="美国",SYFY West (1080p)
-https://sra72yz.s.gy/syfy-west
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East" group-title="美国",Starz Encore Classic (720p)
-https://sra72yz.s.gy/starz-encore-classic
 #EXTINF:-1 tvg-id="GolfChannel.us@SD" group-title="美国",Golf Channel
 https://cdtest.global.ssl.fastly.net/1785070000~03950f07c2e148c063020e0d35ea4497/channel/125/chunks.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@West" group-title="美国",Nickelodeon West (1080p)
-https://sra72yz.s.gy/NICK_WEST_US
-#EXTINF:-1 tvg-id="NickJr.us@West" group-title="美国",Nick Jr. West (720p)
-https://sra72yz.s.gy/NICK_JR_WEST_US
-#EXTINF:-1 tvg-id="StarzEncore.us@West" group-title="美国",Starz Encore West (1080p)
-https://sra72yz.s.gy/STARZ_ENCORE_WEST_US
-#EXTINF:-1 tvg-id="TheMovieChannel.us@West" group-title="美国",The Movie Channel West (720p)
-https://sra72yz.s.gy/THE_MOVIE_CHANNEL_WEST
-#EXTINF:-1 tvg-id="TheMovieChannelXtra.us@West" group-title="美国",The Movie Channel Xtra West (1080p)
-https://sra72yz.s.gy/THE_MOVIE_CHANNEL_XTRA_WEST
 #EXTINF:-1 tvg-id="MeTVPlus.us@SD" group-title="美国",MeTV+ (720p)
 http://40.160.24.53/METV_Plus/index.m3u8
 #EXTINF:-1 tvg-id="PixLTV.us@SD" group-title="美国",PixL TV (720p)
@@ -3641,22 +3607,6 @@ http://40.160.24.55/PIXL/index.m3u8
 https://cdn12.178.indevs.in/163189/dreamworks
 #EXTINF:-1 tvg-id="E.us@Greece" group-title="美国",E! (720p)
 http://185.102.171.218/Entertainment/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeShowcase.us@East" group-title="美国",Showtime Showcase (1080p)
-https://sra72yz.s.gy/SHOWTIME_SHOWCASE_EAST_US
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us@East" group-title="美国",Starz Encore Westerns (720p)
-https://sra72yz.s.gy/STARZ_ENCORE_WESTER_EAST_US
-#EXTINF:-1 tvg-id="StarzInBlack.us@East" group-title="美国",Starz In Black (1080p)
-https://sra72yz.s.gy/STARZ_IN_BLACK_EAST_US
-#EXTINF:-1 tvg-id="StarzEncoreSpanish.us@East" group-title="美国",Starz Encore Spanish (720p)
-https://sra72yz.s.gy/STARZ_ENCORE_ESPANOL_EAST_HD
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us@East" group-title="美国",Starz Encore Suspense (1080p)
-https://sra72yz.s.gy/STARZ_ENCORE_SUSPENSE_EAST_HD
-#EXTINF:-1 tvg-id="StarzEncoreAction.us@East" group-title="美国",Starz Encore Action (1080p)
-https://sra72yz.s.gy/STARZ_ENCORE_ACTION_EAST_HD
-#EXTINF:-1 tvg-id="MGMPlusHits.us@East" group-title="美国",MGM+ Hits (1080p)
-https://sra72yz.s.gy/MGM_PLUS_HITS_HD
-#EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD" group-title="美国",MGM+ Marquee (720p)
-https://sra72yz.s.gy/MGM_PLUS_MARQUEE_SD
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3991,10 +3941,6 @@ http://stream.mcquack.net/85/index.m3u8
 http://tvsen7.aynascope.net/tvone/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.uk@SD" group-title="英国",Nickelodeon (576p)
 http://tvsen7.aynascope.net/nicklodean/index.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk@Romania" group-title="英国",AMC Europe Romania (576p)
-https://aes.m3u8simplu.workers.dev/amc/index.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Romania" group-title="英国",BBC Earth Romania (720p)
-https://aes.m3u8simplu.workers.dev/bbcearth/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" group-title="英国",BBC News North America (1080p)
 https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="DerTV.uk@SD" group-title="英国",Der TV
@@ -4017,12 +3963,6 @@ https://xemzi.short.gy/1000030
 https://xemzi.short.gy/2000006
 #EXTINF:-1 tvg-id="SkySportsGolf.uk@HD" group-title="英国",Sky Sports Golf HD (1080p)
 https://xemzi.short.gy/2000009
-#EXTINF:-1 tvg-id="Channel5.uk@SD" group-title="英国",Channel 5 (720p)
-https://sra72yz.s.gy/CHANNEL_5_UNITED_KINGDOM
-#EXTINF:-1 tvg-id="Channel4.uk@UKHD" group-title="英国",Channel 4 UK HD (1080p)
-https://sra72yz.s.gy/CHANNEL_4_UNITED_KINGDOM
-#EXTINF:-1 tvg-id="EDGEsport.uk@SD" group-title="英国",EDGEsport (576p)
-https://sra72yz.s.gy/EDGE_SPORTS_SD
 #EXTINF:-1 tvg-id="ClublandTV.uk@SD" group-title="英国",Clubland TV (576i)
 http://109.157.194.186:4040/clublandhls/now.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
@@ -4445,13 +4385,3 @@ http://tvsen5.aynascope.net/familyjr/index.m3u8
 https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8
 #EXTINF:-1 tvg-id="WNetwork.ca@East" group-title="加拿大",W Network (720p)
 https://starlite.best/api/stream/hurt/hurt/livetv.epg/w.wtn.east.ca.m3u8
-#EXTINF:-1 tvg-id="FX.ca@SD" group-title="加拿大",FX (720p)
-https://sra72yz.s.gy/FX_CANADA
-#EXTINF:-1 tvg-id="FXX.ca@SD" group-title="加拿大",FXX (1080p)
-https://sra72yz.s.gy/FXX_CANADA
-#EXTINF:-1 tvg-id="Crave1.ca@SD" group-title="加拿大",Crave 1 (720p)
-https://sra72yz.s.gy/CRAVE_1_CANADA
-#EXTINF:-1 tvg-id="E.ca@SD" group-title="加拿大",E! (720p)
-https://sra72yz.s.gy/E_ENTERTAINMENT_CANADA
-#EXTINF:-1 tvg-id="NBATVCanada.ca@SD" group-title="加拿大",NBA TV Canada (720p)
-https://sra72yz.s.gy/NBA_TV_CANADA
