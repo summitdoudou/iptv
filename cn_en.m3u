@@ -3501,6 +3501,36 @@ https://messi.damitv.st/papi/ts/fxx-usa/playlist.m3u8
 https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="Freeform.us@East" group-title="美国",Freeform (1080p) [Geo-blocked]
 https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@East" group-title="美国",Telemundo (1080p)
+http://45.190.13.8/TelemundoHD/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="美国",Nickelodeon (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/nickelodeon-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" group-title="美国",Nick Jr. (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/nickjr-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@West" group-title="美国",Telemundo West (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="TUDN.us@SD" group-title="美国",TUDN (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/tudn-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us@SD" group-title="美国",NBC Sports Philadelphia (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD" group-title="美国",NBC Sports Bay Area (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD" group-title="美国",NBA TV (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/nbatv-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD" group-title="美国",MLB Network (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" group-title="美国",NFL Network (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD" group-title="美国",Golf Channel (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/golfchannel-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" group-title="美国",beIN Sports USA (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD" group-title="美国",Tennis Channel (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/tennischannel-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="CW.us@East" group-title="美国",CW (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us@SD" group-title="美国",It's Supernatural! Network (1080p)
+https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3853,6 +3883,12 @@ http://109.157.194.186:4040/clublandhls/now.m3u8
 http://88.212.15.19/live/amc_hun/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" group-title="英国",BBC Earth Czechia
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="DeenTV.uk@SD" group-title="英国",Deen TV (576p)
+https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="TakbeerTV.uk@SD" group-title="英国",Takbeer TV (720p)
+https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AhlulbaytTV.uk@SD" group-title="英国",Ahlulbayt TV (1080p)
+https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
