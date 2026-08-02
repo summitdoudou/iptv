@@ -1093,8 +1093,6 @@ https://live.enhdtv.com:8081/8150/index.m3u8
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 tvg-id="AE.us@East" group-title="美国",A&E (720p)
 http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:-1 tvg-id="AE.us@East" group-title="美国",A&E (720p)
-http://206.212.244.63/1/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" group-title="美国",A&E Latin America (1080p)
 http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" group-title="美国",A&E Latin America (1080p)
@@ -1683,8 +1681,6 @@ http://40.160.24.58/FOX_DEPORTES/index.m3u8
 http://45.190.28.50/FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
-http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (144p)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" group-title="美国",Fox News Radio (720p)
@@ -3531,6 +3527,8 @@ https://messi.damitv.st/papi/ts/tennischannel-usa/playlist.m3u8
 https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us@SD" group-title="美国",It's Supernatural! Network (1080p)
 https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" group-title="美国",Fox Sports 2 (720p)
+http://iptvstream.rf.gd/FOXSPORTS2.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -4169,8 +4167,6 @@ https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
 https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="iTVLatinMusic.ca@HD" group-title="加拿大",iTV Latin Music
 https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTVTurkishMusic.ca@HD" group-title="加拿大",iTV Turkish Music
-https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="iTVUrbanMusic.ca@HD" group-title="加拿大",iTV Urban Music
 https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD" group-title="加拿大",Knowledge Network (720p) [Geo-blocked]
@@ -4189,8 +4185,6 @@ https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8
 https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca@SD" group-title="加拿大",Legislative Assembly TV Nunavut
 http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca@HD" group-title="加拿大",Love Nature HD (720p)
-http://185.246.209.113/LOVENATUREHD/index.m3u8
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca@SD" group-title="加拿大",Montreal Greek TV (480p)
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="Much.ca@SD" group-title="加拿大",Much (720p)
