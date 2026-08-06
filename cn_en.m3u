@@ -1293,8 +1293,6 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVPanamaCity.us@SD" group-title="美国",Beach TV Panama City (720p)
 https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" group-title="美国",beIN Sports USA (720p)
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" group-title="美国",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BerksCommunityTV.us@SD" group-title="美国",Berks Community TV (1080p)
@@ -3351,6 +3349,10 @@ https://messi.damitv.st/papi/ts/showtimenext-usa/playlist.m3u8
 http://40.160.24.52/ACTIONMAX/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" group-title="美国",Fox Sports 2 (720p)
 https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2
+#EXTINF:-1 tvg-id="WGBODT661.us@HD" group-title="美国",WGBO-DT 66.1 (2160p)
+https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null
+#EXTINF:-1 tvg-id="USANetwork.us@East" group-title="美国",USA Network (720p)
+https://ftv.itscwd273.workers.dev/?id=USANETEAST
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
