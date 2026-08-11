@@ -2925,10 +2925,6 @@ https://gpuserver3.tier1streams.com/DAYSTAR_TV/index.m3u8
 https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="美国",Disney Junior (720p)
 https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8
-#EXTINF:-1 tvg-id="E.us@East" group-title="美国",E! (1080p)
-https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8
-#EXTINF:-1 tvg-id="E.us@West" group-title="美国",E! West (1080p)
-https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_WEST/index.m3u8
 #EXTINF:-1 tvg-id="ESPNews.us@SD" group-title="美国",ESPNews (720p)
 https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@SD" group-title="美国",ESPNU (720p)
@@ -2937,8 +2933,6 @@ https://gpuserver3.tier1streams.com/ESPN_U/index.m3u8
 https://gpuserver3.tier1streams.com/FETV/index.m3u8
 #EXTINF:-1 tvg-id="Flix.us@East" group-title="美国",Flix (720p)
 https://gpuserver3.tier1streams.com/FLIX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoccerPlus.us@SD" group-title="美国",Fox Soccer Plus (720p)
 https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us@East" group-title="美国",Freeform (720p)
@@ -3087,8 +3081,6 @@ http://181.119.66.28:8081/Lifetime-HD/index.m3u8
 http://40.160.24.53/LOGO_TV/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us@SD" group-title="美国",Golf Channel
 https://cdtest.global.ssl.fastly.net/1785070000~03950f07c2e148c063020e0d35ea4497/channel/125/chunks.m3u8
-#EXTINF:-1 tvg-id="MeTVPlus.us@SD" group-title="美国",MeTV+ (720p)
-http://40.160.24.53/METV_Plus/index.m3u8
 #EXTINF:-1 tvg-id="PixLTV.us@SD" group-title="美国",PixL TV (720p)
 http://40.160.24.55/PIXL/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="美国",DreamWorks Channel Asia (1080p)
@@ -3237,6 +3229,70 @@ http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCLXHome.us@HD" group-title="美国",NBC LX Home (720p)
 https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jnz0hbnuaajo2/b3d9d2ee-94c1-4de2-bb46-b1ed009f4f30/4.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us@SD" group-title="美国",FX Movie Channel (720p)
+http://40.160.24.56/FXM_SD/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East" group-title="美国",FX (720p)
+http://40.160.24.56/FX_SD/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East" group-title="美国",FXX (720p)
+http://40.160.24.56/FXX_SD/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us@East" group-title="美国",Freeform (720p)
+http://40.160.24.56/FREEFORM_SD/index.m3u8
+#EXTINF:-1 tvg-id="ABC.us@East" group-title="美国",ABC (720p)
+http://40.160.24.56/ABC_SD/index.m3u8
+#EXTINF:-1 tvg-id="ActionMax.us@East" group-title="美国",ActionMax (720p)
+http://40.160.24.56/ACTIONMAX_SD/index.m3u8
+#EXTINF:-1 tvg-id="MoreMax.us@East" group-title="美国",MoreMax (720p)
+http://40.160.24.56/MOREMAX_SD/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD" group-title="美国",ACC Network (720p)
+http://40.160.24.56/ACC_NETWORK_SD/index.m3u8
+#EXTINF:-1 tvg-id="Aspire.us@SD" group-title="美国",Aspire (720p)
+http://40.160.24.56/ASPIRE_SD/index.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us@SD" group-title="美国",AXS TV (720p)
+http://40.160.24.56/AXS_TV_SD/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" group-title="美国",BBC America (720p)
+http://40.160.24.56/BBC_AMERICA_SD/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@East" group-title="美国",BET (720p)
+http://40.160.24.56/BET_EAST_SD/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@West" group-title="美国",BET West (720p)
+http://40.160.24.56/BET_WEST_SD/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us@East" group-title="美国",BET Her (720p)
+http://40.160.24.56/BET_HER_SD/index.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us@SD" group-title="美国",BET Soul (720p)
+http://40.160.24.56/BET_SOUL_SD/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us@SD" group-title="美国",BET Jams (720p)
+http://40.160.24.56/BET_JAMS_SD/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@US" group-title="美国",Bloomberg TV (720p)
+http://40.160.24.56/BLOOMBERG_SD/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.us@SD" group-title="美国",Bounce (720p)
+http://40.160.24.56/BOUNCE_SD/index.m3u8
+#EXTINF:-1 tvg-id="CMT.us@East" group-title="美国",CMT (720p)
+http://40.160.24.56/CMT_SD/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us@SD" group-title="美国",CNBC (720p)
+http://40.160.24.56/CNBC_SD/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD" group-title="美国",CNBC World (720p)
+http://40.160.24.56/CNBC_WORLD_SD/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East" group-title="美国",Comedy Central (720p)
+http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8
+#EXTINF:-1 tvg-id="CoziTV.us@SD" group-title="美国",Cozi TV (720p)
+http://40.160.24.56/COZI_TV_SD/index.m3u8
+#EXTINF:-1 tvg-id="CW.us@East" group-title="美国",CW (720p)
+http://40.160.24.56/CW_SD/index.m3u8
+#EXTINF:-1 tvg-id="E.us@East" group-title="美国",E! East (720p)
+http://40.160.24.56/E_ENTERTAINMENT_EAST_SD/index.m3u8
+#EXTINF:-1 tvg-id="E.us@West" group-title="美国",E! West (720p)
+http://40.160.24.56/E_ENTERTAINMENT_WEST_SD/index.m3u8
+#EXTINF:-1 tvg-id="FETV.us@SD" group-title="美国",FETV (720p)
+http://40.160.24.56/FETV_SD/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us@East" group-title="美国",Fuse (720p)
+http://40.160.24.56/FUSE_SD/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
+http://40.160.24.56/FOX_NEWS_SD/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" group-title="美国",Fox Business Network (720p)
+http://40.160.24.56/FOX_BUSINESS_SD/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@East" group-title="美国",Fox (720p)
+http://40.160.24.56/FOX_SD/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East" group-title="美国",Bravo (720p)
+http://40.160.24.56/BRAVO_SD/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
