@@ -19,8 +19,6 @@ http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 tvg-id="BeijingSatelliteTV.cn@SD" group-title="中国",BRTV 北京卫视 [Not 24/7]
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
-#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn@SD" group-title="中国",BRTV 北京卫视
-http://118.81.195.79:9003/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn@HD" group-title="中国",CCTV-1 (1080p)
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn@HD" group-title="中国",CCTV-1 (1080p)
@@ -217,10 +215,6 @@ https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",上虞經濟文化 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 tvg-id="" group-title="中国",东南卫视 (Southeast Television fka Fujian Television) (2160p)
-http://118.81.195.79:9003/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="DragonTV.cn@SD" group-title="中国",东方卫视 (2160p)
-http://118.81.195.79:9003/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="ChinaWeatherChannel.cn@SD" group-title="中国",中国气象 (576p) [Not 24/7]
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",之江纪录
@@ -359,8 +353,6 @@ http://112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8
 http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",吉州新聞綜合 (1080p)
 http://218.204.153.158/10.m3u8
-#EXTINF:-1 tvg-id="JilinSatelliteTV.cn@SD" group-title="中国",吉林卫视 (2160p)
-http://118.81.195.79:9003/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",吉林市新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",吴江新闻综合 (720p) [Not 24/7]
@@ -505,8 +497,6 @@ http://livealone302.iqilu.com/iqilu/shpd.m3u8
 http://livealone302.iqilu.com/iqilu/zypd.m3u8
 #EXTINF:-1 tvg-id="ShandongTVQiluChannel.cn@SD" group-title="中国",山东齐鲁 (1080p) [Geo-blocked]
 http://livealone302.iqilu.com/iqilu/qlpd.m3u8
-#EXTINF:-1 tvg-id="ShanxiTV.cn@SD" group-title="中国",山西卫视 (2160p)
-http://118.81.195.79:9003/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",山西影视
 http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",山西文体
@@ -525,12 +515,8 @@ https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-#EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn@SD" group-title="中国",广东卫视 (2160p)
-http://118.81.195.79:9003/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",广水新闻综合 [Geo-blocked]
 http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
-#EXTINF:-1 tvg-id="GuangxiTV.cn@SD" group-title="中国",广西卫视 (576p)
-http://118.81.195.79:9003/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="YanbianSatelliteTV.cn@SD" group-title="中国",康巴卫视 (720p) [Not 24/7]
 http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 #EXTINF:-1 tvg-id="YanbianSatelliteTV.cn@SD" group-title="中国",康巴卫视 (576p)
@@ -701,16 +687,12 @@ http://125.210.152.18:9090/live/JXWSHD_H265.m3u8
 http://121.19.134.246:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",河北农民
 http://121.19.134.246:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="HebeiTV.cn@SD" group-title="中国",河北卫视 (2160p)
-http://118.81.195.79:9003/hls/29/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",河北影视
 http://121.19.134.246:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",河北经济
 http://121.19.134.246:808/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",河北都市
 http://121.19.134.246:808/hls/21/index.m3u8
-#EXTINF:-1 tvg-id="HenanTVSatellite.cn@SD" group-title="中国",河南卫视 (2160p)
-http://118.81.195.79:9003/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",河源综合 (540p)
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",浙江 Ⅰ 绍兴影视 (720p)
@@ -755,8 +737,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="HainanSatelliteTV.cn@SD" group-title="中国",海南卫视 (576p)
-http://118.81.195.79:9003/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",海西州综合 (576p)
 http://stream.haixitv.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",涡阳新闻综合 (360p)
@@ -783,8 +763,6 @@ http://183.207.249.37/PLTV/4/224/3221227307/index.m3u8
 http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8
 #EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn@SD" group-title="中国",深圳卫视 (1080p)
 http://223.110.245.139/PLTV/4/224/3221227307/index.m3u8
-#EXTINF:-1 tvg-id="HubeiSatelliteTV.cn@SD" group-title="中国",湖北卫视 (1080p)
-http://118.81.195.79:9003/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",湘潭公共 (576p)
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",湘潭新闻综合 (720p)
@@ -967,8 +945,6 @@ http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8
 http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8
 #EXTINF:-1 tvg-id="JiuquanTVNewsComprehensiveChannel.cn@SD" group-title="中国",酒泉新闻综合 (576p)
 http://117.156.28.119/270000001111/1110000001/index.m3u8
-#EXTINF:-1 tvg-id="ChongqingTVInternational.cn@SD" group-title="中国",重庆卫视 (1080p)
-http://118.81.195.79:9003/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",金昌公共頻道 (240p) [Geo-blocked]
 http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",金昌綜合頻道 (720p) [Geo-blocked]
@@ -1049,8 +1025,6 @@ http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 #EXTINF:-1 tvg-id="" group-title="中国",黑龙江卫 (1080p)
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
-#EXTINF:-1 tvg-id="HeilongjiangTV.cn@SD" group-title="中国",黑龙江卫视 (2160p)
-http://118.81.195.79:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="CGTNGlobalBiz.cn@SD" group-title="中国",CGTN Global Biz (1080p)
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" group-title="中国",Discovering China (1080p)
@@ -1259,8 +1233,6 @@ http://23.239.31.26:8989/axstv/index.m3u8
 http://40.160.24.56/AXS_TV_SD/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" group-title="美国",BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1 tvg-id="BandamaxUSA.us@SD" group-title="美国",Bandamax USA (1080p)
-http://177.234.249.135:8888/Bandamax/index.m3u8
 #EXTINF:-1 tvg-id="BarkTV.us@SD" group-title="美国",Bark TV (1080p)
 https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us@East" group-title="美国",BBC America (720p)
@@ -1492,8 +1464,6 @@ http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" group-title="美国",Comedy Central Latin America (1080p)
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" group-title="美国",Comedy Central Latin America (1080p)
-http://181.119.93.83:8000/play/a1di/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" group-title="美国",Comedy Central Latin America (1080p)
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" group-title="美国",Comedy Central Latin America
 http://103.111.40.244:9999/play/a0i5/index.m3u8
@@ -1579,8 +1549,6 @@ https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 http://212.5.144.156/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="美国",Disney Channel (720p)
 http://190.14.10.19:16000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="美国",Disney Channel (576p)
-https://tvsen5.aynaott.com/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North" group-title="美国",Disney Jr. Latin America (1080p)
 http://190.14.10.19:16000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="美国",Disney Junior (720p)
@@ -1619,16 +1587,12 @@ http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 https://live.nxplay.com.br/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="美国",DreamWorks Channel Latin America (576p)
 https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8
-#EXTINF:-1 tvg-id="DSports.us@Panregional" group-title="美国",DSports (720p)
-http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="DuckHuntingTV.us@SD" group-title="美国",Duck Hunting TV (1080p)
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="DungeonTV.us@SD" group-title="美国",Dungeon TV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2226
 #EXTINF:-1 tvg-id="E.us@East" group-title="美国",E! (1080p)
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-id="E.us@Greece" group-title="美国",E! (720p)
-http://185.102.171.218/Entertainment/index.m3u8
 #EXTINF:-1 tvg-id="E.us@East" group-title="美国",E! East (720p)
 http://40.160.24.56/E_ENTERTAINMENT_EAST_SD/index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@South" group-title="美国",E! Latin America (1080p)
@@ -1653,8 +1617,6 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="美国",Everyday Refresh (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
-#EXTINF:-1 tvg-id="EWTN.us@SpainLatinAmerica" group-title="美国",EWTN Spain & Latin America (720p)
-http://177.234.249.135:8888/EWTN/index.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.us@SD" group-title="美国",Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionFinds.us@SD" group-title="美国",Fashion Finds (720p)
@@ -1859,8 +1821,6 @@ http://181.119.66.28:8081/History-HD/index.m3u8
 http://190.93.224.42/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us@SD" group-title="美国",HMI PROMZ NEWS (720p)
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="美国",Hola! TV Latin America (1080p)
-http://8.243.126.131:8000/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="美国",Hola! TV Latin America (1080p)
 http://15.204.246.24:8080/HOLATVHD/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="美国",Hola! TV Latin America (1080p)
@@ -2297,8 +2257,6 @@ http://190.93.224.42/NICK/index.m3u8
 http://40.160.24.55/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="美国",Nicktoons (720p)
 http://41.205.93.154/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="美国",Nicktoons (720p)
-https://gpuserver5.tier1streams.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="NorCastWeather.us@HD" group-title="美国",NorCast Weather (1080p)
 https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us@Arabic" group-title="美国",NOW News Arabic (720p)
@@ -2675,10 +2633,6 @@ https://gpuserver5.tier1streams.com/TEEN_NICK/index.m3u8
 http://tvsen7.aynascope.net/teennick/index.m3u8
 #EXTINF:-1 tvg-id="TeleBoston.us@SD" group-title="美国",Tele Boston (480p)
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
-#EXTINF:-1 tvg-id="TeleHitEstadosUnidos.us@SD" group-title="美国",TeleHit Estados Unidos (720p)
-http://177.234.249.135:8888/Telehit/index.m3u8
-#EXTINF:-1 tvg-id="TelehitMusicaEstadosUnidos.us@SD" group-title="美国",Telehit Musica Estados Unidos (720p)
-http://177.234.249.135:8888/TelehitMusica/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@East" group-title="美国",Telemundo (1080p)
 http://45.190.13.8/TelemundoHD/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@East" group-title="美国",Telemundo (720p)
@@ -3085,6 +3039,24 @@ http://40.160.24.56/C-SPAN_2_SD/index.m3u8
 https://streamer.metronethn.com/Telemundo/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@South" group-title="美国",FX Latin America South (720p)
 https://streamer.metronethn.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="美国",Nickelodeon Latin America (720p)
+https://streamer.metronethn.com/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="美国",Nick Jr. Latin America (720p)
+https://streamer.metronethn.com/NickJr/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="美国",AMC Latin America (720p)
+https://streamer.metronethn.com/AMC/index.m3u8
+#EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="美国",History Asia (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" group-title="美国",A&E Latin America (720p)
+https://streamer.metronethn.com/AE/index.m3u8
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" group-title="美国",MTV Latin America (720p)
+https://streamer.metronethn.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" group-title="美国",Lifetime Latin America (720p)
+https://streamer.metronethn.com/Lifetime/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" group-title="美国",Adult Swim Latin America (720p)
+https://streamer.metronethn.com/AdultSwim/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxLatino.us@SD" group-title="美国",Cinemax Latino (480p)
+https://streamer.metronethn.com/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3117,14 +3089,10 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://138.121.15.230:9002/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" group-title="英国",BabyTV Latin America (720p)
 http://179.60.51.134:8888/BABY-TV/index.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk@Netherlands" group-title="英国",BabyTV Netherlands (576p)
-http://185.102.171.218/BabyTV/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Turkiye" group-title="英国",BabyTV Turkiye (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" group-title="英国",BBC Earth Czechia
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Greece" group-title="英国",BBC Earth Greece (1080p)
-http://185.102.171.218/BBCEarth/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Turkiye" group-title="英国",BBC Earth Turkiye (720p)
 http://194.156.236.23:8004/play/a018
 #EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye" group-title="英国",BBC First Turkiye
@@ -3183,8 +3151,6 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="DerTV.uk@SD" group-title="英国",Der TV
 https://stream.berosat.live/hls/der-tv/der-tv.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelEMEA.uk@SD" group-title="英国",Disney Channel EMEA (576p)
-http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-id="EmanChannel.uk@SD" group-title="英国",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" group-title="英国",English Club TV (576i)
@@ -3431,6 +3397,8 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk@UK" group-title="英国",Zee One (1080p)
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk@SD" group-title="英国",Sky Sports News
+https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
@@ -3495,8 +3463,6 @@ https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/ind
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:-1 tvg-id="CricketGold.au@SD" group-title="澳大利亚",Cricket Gold (1080p)
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
-#EXTINF:-1 tvg-id="CricketGold.au@SD" group-title="澳大利亚",Cricket Gold (1080p)
-https://trs1.aynaott.com/CricketGold/index.m3u8
 #EXTINF:-1 tvg-id="CTBPerth.au@SD" group-title="澳大利亚",CTB Perth (720p)
 https://live.ctbperth.net.au/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="CTBPerthMoviesChannel.au@SD" group-title="澳大利亚",CTB Perth Movies (720p)
@@ -3627,8 +3593,6 @@ https://videostream.jpbgdigital.com/CKPGTV.m3u8
 https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8
 #EXTINF:-1 tvg-id="CottageLife.ca@SD" group-title="加拿大",Cottage Life (720p)
 http://185.246.209.113/CottageLife/index.m3u8
-#EXTINF:-1 tvg-id="CP24.ca@SD" group-title="加拿大",CP24 (576p)
-https://trs1.aynaott.com/cp24/index.m3u8
 #EXTINF:-1 tvg-id="CP24.ca@SD" group-title="加拿大",CP24 (576p)
 https://tvsen6.aynaott.com/cp24/index.m3u8
 #EXTINF:-1 tvg-id="CPACEnglish.ca@SD" group-title="加拿大",CPAC (720p)
