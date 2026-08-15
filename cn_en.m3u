@@ -81,8 +81,6 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 #EXTINF:-1 tvg-id="CETV2.cn@SD" group-title="中国",CETV2 (576p)
 http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
-#EXTINF:-1 tvg-id="CETV1.cn@SD" group-title="中国",CETV-1
-http://121.19.134.246:808/hls/62/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="中国",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="中国",CGTN (1080p)
@@ -457,8 +455,6 @@ http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",宿迁公共 (480p)
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226939/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="中国",少儿科教
-http://121.19.134.246:808/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="ShandongTVSportsChannel.cn@SD" group-title="中国",山东体育 (1080p) [Geo-blocked]
 http://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1 tvg-id="ShandongTVAgriculturalScienceChannel.cn@SD" group-title="中国",山东农科 (406p) [Geo-blocked]
@@ -683,16 +679,6 @@ http://183.207.248.71/gitv/live1/JXWS/JXWS
 http://183.207.249.15/PLTV/4/224/3221225798/index.m3u8
 #EXTINF:-1 tvg-id="JiangxiTV.cn@SD" group-title="中国",江西卫视 (360p)
 http://125.210.152.18:9090/live/JXWSHD_H265.m3u8
-#EXTINF:-1 tvg-id="" group-title="中国",河北公共
-http://121.19.134.246:808/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="中国",河北农民
-http://121.19.134.246:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="中国",河北影视
-http://121.19.134.246:808/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="中国",河北经济
-http://121.19.134.246:808/hls/20/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="中国",河北都市
-http://121.19.134.246:808/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",河源综合 (540p)
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",浙江 Ⅰ 绍兴影视 (720p)
@@ -1031,6 +1017,8 @@ https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn@SD" group-title="中国",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-id="FujianComprehensiveChannel.cn@SD" group-title="中国",Fujian Comprehensive Channel
+http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="美国",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" group-title="美国",48 Hours (1080p)
@@ -1547,7 +1535,7 @@ http://177.234.249.178:8888/PARAMOUNT/index.m3u8
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="美国",Disney Channel (720p) [Geo-blocked]
 http://212.5.144.156/disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East" group-title="美国",Disney Channel (720p)
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" group-title="美国",Disney Channel Latin America (720p)
 http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North" group-title="美国",Disney Jr. Latin America (1080p)
 http://190.14.10.19:16000/play/a02d/index.m3u8
@@ -3057,6 +3045,12 @@ https://streamer.metronethn.com/Lifetime/index.m3u8
 https://streamer.metronethn.com/AdultSwim/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatino.us@SD" group-title="美国",Cinemax Latino (480p)
 https://streamer.metronethn.com/Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@West" group-title="美国",Telemundo West (2160p)
+http://168.228.44.241:9997/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="WLTVDT231.us@HD" group-title="美国",WLTV-DT 23.1 (720p)
+http://168.228.44.241:9997/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@Spanish" group-title="美国",BabyFirst Spanish (720p)
+http://168.228.44.241:9997/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3399,6 +3393,8 @@ http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
 #EXTINF:-1 tvg-id="SkySportsNews.uk@SD" group-title="英国",Sky Sports News
 https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Turkiye" group-title="英国",BBC Earth Turkiye
+https://nord.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
