@@ -239,8 +239,6 @@ http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
 #EXTINF:-1 tvg-id="YunnanSatelliteTV.cn@SD" group-title="中国",云南卫视 (576p)
 http://223.110.245.173/PLTV/4/224/3221225838/index.m3u8
-#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn@SD" group-title="中国",云南卫视 (540p)
-http://112.25.48.68/live/program/live/ynws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",五星体育 (720p)
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",亚太台 (480p)
@@ -253,10 +251,6 @@ http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
 http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.m3u8
 #EXTINF:-1 tvg-id="" group-title="中国",亳州新聞頻道 (360p)
 http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8
-#EXTINF:-1 tvg-id="" group-title="中国",仙桃新聞綜合 (576p)
-http://221.233.242.239:280/live/71/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="中国",仙桃生活文體 (576p)
-http://221.233.242.239:280/live/72/playlist.m3u8
 #EXTINF:-1 tvg-id="YouManCartoonChannel.cn@SD" group-title="中国",优漫卡通 (576p)
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 #EXTINF:-1 tvg-id="YouManCartoonChannel.cn@SD" group-title="中国",优漫卡通 (576p)
@@ -1597,11 +1591,11 @@ http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" group-title="美国",ESPN Deportes (720p)
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes.us@SD" group-title="美国",ESPN Deportes (720p)
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" group-title="美国",ESPN Deportes HD (720p)
 https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@SD" group-title="美国",ESPNU (720p)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us@SD" group-title="美国",ESPNU (720p)
+#EXTINF:-1 tvg-id="ESPNU.us@HD" group-title="美国",ESPNU HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="美国",Everyday Refresh (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
@@ -1634,13 +1628,9 @@ https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" group-title="美国",Fox Deportes (720p)
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
-http://40.160.24.56/FOX_NEWS_SD/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
 http://45.190.28.50/FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (576p)
-https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (144p)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" group-title="美国",Fox News Radio (720p)
@@ -2684,8 +2674,6 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76
 #EXTINF:-1 tvg-id="TMTV.us@SD" group-title="美国",TM TV (720p)
 https://hls.tmtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" group-title="美国",TNT Novelas (1080p)
-http://15.204.246.24:8080/TNTNovelasHD/index.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" group-title="美国",TNT Novelas (1080p)
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" group-title="美国",TNT Novelas Brazil (720p)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
@@ -3051,6 +3039,14 @@ http://168.228.44.241:9997/play/a07g/index.m3u8
 http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@Spanish" group-title="美国",BabyFirst Spanish (720p)
 http://168.228.44.241:9997/play/a07u/index.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us@HD" group-title="美国",FX Movie Channel HD (1080p)
+https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="美国",Nickelodeon (1080p)
+https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="美国",Nicktoons (1080p)
+https://sra72yz.s.gy/NICKTOONS_US.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" group-title="美国",Nick Jr. (1080p)
+https://sra72yz.s.gy/NICK_JR_US.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
