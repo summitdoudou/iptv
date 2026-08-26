@@ -2789,8 +2789,6 @@ https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us@SD" group-title="美国",ACC Network (720p)
 http://23.239.31.26:8989/accnetwork/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@West" group-title="美国",Telemundo West (720p)
-http://190.124.20.69/Telemundo/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" group-title="美国",BabyFirst (480p)
 http://181.78.106.127:5000/play/a0sa/index.m3u8
 #EXTINF:-1 tvg-id="STV.us@HD" group-title="美国",STV (360p)
@@ -2915,6 +2913,10 @@ https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
 https://stream.diyatvinc.com/diya.m3u8
 #EXTINF:-1 tvg-id="ABHPTV.us@HD" group-title="美国",ABHP TV (480p)
 https://vietprocast.app/hls/abhp/index.m3u8
+#EXTINF:-1 tvg-id="GreaterLoveTV.us@SD" group-title="美国",Greater Love TV (720p)
+https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
+#EXTINF:-1 tvg-id="VideoMixTV.us@SD" group-title="美国",Video Mix TV
+https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3291,6 +3293,8 @@ https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
 https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Romania" group-title="英国",AMC Europe Romania
 https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
+#EXTINF:-1 tvg-id="BBCFirst.uk@Romania" group-title="英国",BBC First Romania
+https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
