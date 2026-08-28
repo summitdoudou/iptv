@@ -2587,11 +2587,11 @@ https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 tvg-id="W14DKD142.us@SD" group-title="美国",W14DK-D 14.2 NEWSNET
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="美国",WATC Harmony Gospel Music TV (1080p)
+#EXTINF:-1 tvg-id="HarmonyGospelMusicTV.us@SD" group-title="美国",Harmony Gospel Music TV (1080p)
 https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
-#EXTINF:-1 tvg-id="WATCDT573.us@SD" group-title="美国",WATC The Loop (1080p)
+#EXTINF:-1 tvg-id="TheLoop.us@SD" group-title="美国",The Loop (1080p)
 https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
-#EXTINF:-1 tvg-id="WATCDT572.us@HD" group-title="美国",WATC The POINT Network (1080p)
+#EXTINF:-1 tvg-id="ThePointTelevsionNetwork.us@SD" group-title="美国",The Point Televsion Network (1080p)
 https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
 #EXTINF:-1 tvg-id="WATCDT571.us@HD" group-title="美国",WATC TV57 (1080p)
 https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
@@ -2919,6 +2919,14 @@ https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" group-title="美国",CBS Sports Golazo Network (720p)
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+#EXTINF:-1 tvg-id="GenesisScienceNetwork.us@SD" group-title="美国",Genesis Science Network (720p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@HD" group-title="美国",ACC Network HD (720p)
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@EastHD" group-title="美国",Nickelodeon East HD (720p)
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F198.58.104.90%3A8989%2Fnickelodeon%2Findex.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="美国",DreamWorks Channel Asia (1080p)
+http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -2993,10 +3001,6 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://hls.autopo.st/hls/britasiatv/index.m3u8
 #EXTINF:-1 tvg-id="Canaf54TV.uk@SD" group-title="英国",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel5.uk@SD" group-title="英国",Channel 5 (1080p)
-https://xemzi.short.gy/1000030
-#EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="英国",Channel 5 HD (720p)
-http://193.46.58.239:8080/Channel5/index.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk@SD" group-title="英国",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk@SD" group-title="英国",CNBC UK (1080p) [Geo-blocked]
@@ -3095,8 +3099,6 @@ https://live.playstop.me/1816184091/index.m3u8
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="IslamChannel.uk@SD" group-title="英国",Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="ITV1.uk@London" group-title="英国",ITV1 (1080p)
-https://xemzi.short.gy/1000011
 #EXTINF:-1 tvg-id="ITV2.uk@HD" group-title="英国",ITV2 HD (1080p)
 https://xemzi.short.gy/1000012
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" group-title="英国",JimJam Europe (720p)
