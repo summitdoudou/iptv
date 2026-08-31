@@ -1493,8 +1493,6 @@ http://38.19.16.151:8000/play/a0a3
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International" group-title="美国",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DogTV.us@SD" group-title="美国",Dog TV (720p)
-http://46.151.196.223:14382
 #EXTINF:-1 tvg-id="DrGeneScott.us@SD" group-title="美国",Dr. Gene Scott (1080p)
 https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 #EXTINF:-1 tvg-id="DrGeneScott.us@SD" group-title="美国",Dr. Gene Scott (480p)
@@ -2929,6 +2927,12 @@ https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
 http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:-1 tvg-id="MeTV.us@SD" group-title="美国",MeTV (720p)
 http://4.30.180.36:8420/metv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="DSports.us@Panregional" group-title="美国",DSports
+http://138.121.113.175:8000/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us@Panregional" group-title="美国",DSports 2
+http://138.121.113.175:8000/play/a0ca/index.m3u8
+#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us@SD" group-title="美国",La Rosa de Guadalupe (360p)
+https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3189,12 +3193,8 @@ https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 https://tvsen6.aynaott.com/skynature/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" group-title="英国",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="SkySportsCricket.uk@SD" group-title="英国",Sky Sports Cricket
-https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsCricket.uk@HD" group-title="英国",Sky Sports Cricket HD (1080p)
 https://xemzi.short.gy/2000006
-#EXTINF:-1 tvg-id="SkySportsNFL.uk@SD" group-title="英国",Sky Sports NFL
-https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk@SD" group-title="英国",Space Live powered by sen (1080p)
 https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TakbeerTV.uk@SD" group-title="英国",Takbeer TV (720p)
@@ -3259,8 +3259,6 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk@UK" group-title="英国",Zee One (1080p)
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
-#EXTINF:-1 tvg-id="SkySportsNews.uk@SD" group-title="英国",Sky Sports News
-https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Turkiye" group-title="英国",BBC Earth Turkiye
 https://nord.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="BBCUHD3.uk@SD" group-title="英国",BBC UHD 3 (720p)
@@ -3273,12 +3271,8 @@ http://stream.mcquack.net/313/index.m3u8
 https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Hungary" group-title="英国",BBC Earth Hungary
 http://88.212.15.19/live/bbce_hun/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsF1.uk@HD" group-title="英国",Sky Sports F1 HD (720p)
-http://188.138.29.131/skysportsf1/index.m3u8
 #EXTINF:-1 tvg-id="SkyMix.uk@HD" group-title="英国",Sky Mix HD (720p)
 http://188.138.29.131/skymix/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsGolf.uk@HD" group-title="英国",Sky Sports Golf HD (720p)
-http://188.138.29.131/skygolf/index.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.uk@SD" group-title="英国",Alb UK TV (1080p)
 http://5.254.89.106/8794/index.m3u8
 #EXTINF:-1 tvg-id="SangatTV.uk@SD" group-title="英国",Sangat TV (576p)
