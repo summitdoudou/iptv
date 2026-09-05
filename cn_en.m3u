@@ -1267,7 +1267,7 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="BATV.us@SD" group-title="美国",Bloomfield Access TV Channel 5 (480p)
 https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
-#EXTINF:-1 tvg-id="KMBYLD275.us@SD" group-title="美国",Blues TV
+#EXTINF:-1 tvg-id="MeTVToons.us@KMBYLD" group-title="美国",Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BMCHDTV.us@SD" group-title="美国",BMC-HD TV (720p)
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -1763,37 +1763,37 @@ https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/mast
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 tvg-id="KaloopyTV.us@SD" group-title="美国",Kaloopy TV (1080p)
 https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
-#EXTINF:-1 tvg-id="KATC31.us@HD" group-title="美国",KATC 3.1 (1080p)
+#EXTINF:-1 tvg-id="ABC.us@KATC" group-title="美国",KATC 3.1 (1080p)
 http://stream.cammonitorplus.net/1753/index.m3u8
-#EXTINF:-1 tvg-id="KCKSLD253.us@HD" group-title="美国",KCKS-LD 25.3 (720p)
+#EXTINF:-1 tvg-id="AceTV.us@KCKSLD" group-title="美国",KCKS-LD 25.3 (720p)
 https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
-#EXTINF:-1 tvg-id="KDFW41.us@HD" group-title="美国",KDFW-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@KDFW" group-title="美国",KDFW-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="KetchupTV.us@SD" group-title="美国",Ketchup TV (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
-#EXTINF:-1 tvg-id="KFTRDT461.us@HD" group-title="美国",KFTR-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="UniMas.us@KFTRDT" group-title="美国",KFTR-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:-1 tvg-id="" group-title="美国",Kids Street (1080p)
 http://181.78.121.15:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="KIROTV71.us@HD" group-title="美国",KIRO-DT1 (1080p)
+#EXTINF:-1 tvg-id="CBS.us@KIROTV" group-title="美国",KIRO-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="KMEXDT341.us@HD" group-title="美国",KMEX-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="Univision.us@KMEXDT" group-title="美国",KMEX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:-1 tvg-id="KMSPDT1.us@SD" group-title="美国",KMSP-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KNTV111.us@HD" group-title="美国",KNTV 11.1
+#EXTINF:-1 tvg-id="NBC.us@KNTV" group-title="美国",KNTV 11.1
 http://50.229.129.155/0.ts
-#EXTINF:-1 tvg-id="KNTV111.us@HD" group-title="美国",KNTV-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us@KNTV" group-title="美国",KNTV-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
-#EXTINF:-1 tvg-id="KOKITV231.us@HD" group-title="美国",KOKI-DT1 (1080p)
+#EXTINF:-1 tvg-id="Roar.us@KOKITV" group-title="美国",KOKI-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="ACECountryRadio.us@KPVMLD" group-title="美国",ACE Country Radio KPVM-LD
 https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KPVMLD257.us@SD" group-title="美国",KPVM AWE Plus
+#EXTINF:-1 tvg-id="AWEPlus.us@KPVMLD" group-title="美国",KPVM AWE Plus
 https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Movies.us@KPVMLD" group-title="美国",Movies! KPVM-LD
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KPVMLD255.us@SD" group-title="美国",KPVM Newsmax 2
+#EXTINF:-1 tvg-id="Newsmax2.us@KPVMLD" group-title="美国",KPVM Newsmax 2
 https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
 #EXTINF:-1 tvg-id="OANPlus.us@KPVMLD" group-title="美国",OAN Plus KPVM-LD
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
@@ -1803,25 +1803,25 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 #EXTINF:-1 tvg-id="StoryTelevision.us@KPVMLD" group-title="美国",Story Television KPVM-LD
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KQED92.us@HD" group-title="美国",KQED-DT2 (1080p)
+#EXTINF:-1 tvg-id="PBS.us@KQED" group-title="美国",KQED-DT2 (1080p)
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 #EXTINF:-1 tvg-id="KRGVTV52.us@HD" group-title="美国",KRGV-DT2 [Geo-blocked]
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KRIV261.us@HD" group-title="美国",KRIV-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@KRIV" group-title="美国",KRIV-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KSAZTV101.us@HD" group-title="美国",KSAZ-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@KSAZTV" group-title="美国",KSAZ-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KTBC71.us@HD" group-title="美国",KTBC-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@KTBC" group-title="美国",KTBC-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KTTV111.us@HD" group-title="美国",KTTV 11.1 (720p)
+#EXTINF:-1 tvg-id="Fox.us@KTTV" group-title="美国",KTTV 11.1 (720p)
 https://n15sb.host5245.com/63/index.m3u8
-#EXTINF:-1 tvg-id="KTTV111.us@HD" group-title="美国",KTTV-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@KTTV" group-title="美国",KTTV-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KUVNDT491.us@HD" group-title="美国",KUVN-DT1
+#EXTINF:-1 tvg-id="UniMas.us@KUVNDT" group-title="美国",KUVN-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
-#EXTINF:-1 tvg-id="KVIE62.us@HD" group-title="美国",KVIE-DT2 (1080p)
+#EXTINF:-1 tvg-id="PBS.us@KVIE" group-title="美国",KVIE-DT2 (1080p)
 https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
-#EXTINF:-1 tvg-id="KXASTV51.us@HD" group-title="美国",KXAS-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us@KXASTV" group-title="美国",KXAS-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
 #EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us@SD" group-title="美国",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
@@ -1989,7 +1989,7 @@ http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 http://stream.cammonitorplus.net/1785/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us@East" group-title="美国",NBC (720p)
 http://170.254.17.2/NBC/index.m3u8
-#EXTINF:-1 tvg-id="WMAQTV51.us@HD" group-title="美国",NBC 5 Chicago Live News (1080p)
+#EXTINF:-1 tvg-id="NBC.us@WMAQTV" group-title="美国",NBC 5 Chicago Live News (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
 #EXTINF:-1 tvg-id="NBCLXHome.us@HD" group-title="美国",NBC LX Home (1080p)
 https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
@@ -2011,7 +2011,7 @@ http://187.102.210.46/universo/index.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@West" group-title="美国",NBC West (720p)
 http://stream.cammonitorplus.net/1800/index.m3u8
-#EXTINF:-1 tvg-id="KNSD481.us@HD" group-title="美国",NBC West (San Diego) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telemundo.us@KNSD" group-title="美国",NBC West (San Diego) (1080p) [Not 24/7]
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us@SD" group-title="美国",NBCLX (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
@@ -2325,7 +2325,7 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us@SD" group-title="美国",Stingray Greatest Holiday Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
-#EXTINF:-1 tvg-id="WCIUTV265.us@SD" group-title="美国",Story Television
+#EXTINF:-1 tvg-id="StoryTelevision.us@WCIUTV" group-title="美国",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="StrykTV.us@HD" group-title="美国",Stryk TV (1080p)
 https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
@@ -2597,9 +2597,9 @@ https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245
 #EXTINF:-1 tvg-id="WatchitScream.us@SD" group-title="美国",Watch it Scream! (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
-#EXTINF:-1 tvg-id="WBTSCD151.us@HD" group-title="美国",WBTS-CD1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us@WBTSCD" group-title="美国",WBTS-CD1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
-#EXTINF:-1 tvg-id="WCAU621.us@HD" group-title="美国",WCAU-DT1 (1080p)
+#EXTINF:-1 tvg-id="Telemundo.us@WCAU" group-title="美国",WCAU-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
 #EXTINF:-1 tvg-id="WeTV.us@East" group-title="美国",We TV (720p)
 http://170.254.17.2/WE_TV/index.m3u8
@@ -2607,27 +2607,27 @@ http://170.254.17.2/WE_TV/index.m3u8
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="美国",WeatherNation (1080p)
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-#EXTINF:-1 tvg-id="WEDQ34.us@HD" group-title="美国",WEDQ-DT4 (1080p)
+#EXTINF:-1 tvg-id="PBS.us@WEDQ" group-title="美国",WEDQ-DT4 (1080p)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-id="Westerns4U.us@SD" group-title="美国",Westerns 4U (1080p)
 http://181.224.255.210:8001/play/a0rq/index.m3u8
-#EXTINF:-1 tvg-id="WFLD501.us@HD" group-title="美国",WFLD-DT1 (1080p)
+#EXTINF:-1 tvg-id="MNT.us@WFLD" group-title="美国",WFLD-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WFUTDT681.us@HD" group-title="美国",WFUT-DT1 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="UniMas.us@WFUTDT" group-title="美国",WFUT-DT1 (720p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
-#EXTINF:-1 tvg-id="WFXT662.us@SD" group-title="美国",WFXT-DT2 (1080p)
+#EXTINF:-1 tvg-id="MovieSphereGold.us@WFXT" group-title="美国",WFXT-DT2 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="WGALDT3.us@SD" group-title="美国",WGAL-DT3 (1080p) [Geo-blocked]
 https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8
-#EXTINF:-1 tvg-id="WGBODT661.us@HD" group-title="美国",WGBO-DT 66.1 (2160p)
+#EXTINF:-1 tvg-id="Univision.us@WGBODT" group-title="美国",WGBO-DT 66.1 (2160p)
 https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null
 #EXTINF:-1 tvg-id="WGNDT1.us@SD" group-title="美国",WGN-DT1 (720p)
 http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:-1 tvg-id="WGTV83.us@SD" group-title="美国",WGTV-DT3 (1080p)
+#EXTINF:-1 tvg-id="WorldChannel.us@WGTV" group-title="美国",WGTV-DT3 (1080p)
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
-#EXTINF:-1 tvg-id="WHBQTV131.us@HD" group-title="美国",WHBQ-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@WHBQTV" group-title="美国",WHBQ-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WHIOTV71.us@HD" group-title="美国",WHIO-DT1 (1080p)
+#EXTINF:-1 tvg-id="CBS.us@WHIOTV" group-title="美国",WHIO-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="Whiplash.us@HD" group-title="美国",Whiplash (720p)
 https://cdn.whiplash.cc/whiplash/index.m3u8
@@ -2635,7 +2635,7 @@ https://cdn.whiplash.cc/whiplash/index.m3u8
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 tvg-id="WhiplashII.us@SD" group-title="美国",Whiplash II (480p)
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
-#EXTINF:-1 tvg-id="WHPSCD152.us@SD" group-title="美国",WHPS Detroit
+#EXTINF:-1 tvg-id="iHolyfieldTV.us@WHPSCD" group-title="美国",WHPS Detroit
 https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
 #EXTINF:-1 tvg-id="Willow.us@SD" group-title="美国",Willow (720p)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
@@ -2653,65 +2653,63 @@ https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 #EXTINF:-1 tvg-id="WineWatchesWhiskey.us@HD" group-title="美国",Wine Watches Whiskey (1080p)
 https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8
-#EXTINF:-1 tvg-id="WITI61.us@HD" group-title="美国",WITI-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WJAXTV471.us@HD" group-title="美国",WJAX-DT1 (1080p)
+#EXTINF:-1 tvg-id="CBS.us@WJAXTV" group-title="美国",WJAX-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WJBK21.us@HD" group-title="美国",WJBK-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@WITI" group-title="美国",WITI-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WJBK" group-title="美国",WJBK-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WLMB.us@SD" group-title="美国",WLMB (1080p)
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
-#EXTINF:-1 tvg-id="WLTVDT231.us@HD" group-title="美国",WLTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="Univision.us@WLTVDT" group-title="美国",WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
-#EXTINF:-1 tvg-id="WMBCTV631.us@HD" group-title="美国",WMBC-DT1 (720p)
+#EXTINF:-1 tvg-id="EstrellaTV.us@WMBCTV" group-title="美国",WMBC-DT1 (720p)
 http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
-#EXTINF:-1 tvg-id="WMBCTV631.us@HD" group-title="美国",WMBC-DT1
+#EXTINF:-1 tvg-id="EstrellaTV.us@WMBCTV" group-title="美国",WMBC-DT1
 http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/1098/index.m3u8
 #EXTINF:-1 tvg-id="WNBC471.us@HD" group-title="美国",WNBC-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
-#EXTINF:-1 tvg-id="WNYW51.us@HD" group-title="美国",WNYW-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@WNYW" group-title="美国",WNYW-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldChannel.us@SD" group-title="美国",World Channel (1080p)
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="WPIXHD.us@SD" group-title="美国",WPIX-HD (576p)
-https://tvsen6.aynaott.com/pix11/index.m3u8
-#EXTINF:-1 tvg-id="WPXI111.us@HD" group-title="美国",WPXI-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us@WPXI" group-title="美国",WPXI-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WRCDT1.us@SD" group-title="美国",WRC-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
 #EXTINF:-1 tvg-id="WSBDT1.us@SD" group-title="美国",WSB-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WSBSTV221.us@HD" group-title="美国",WSBS-DT1 (1080p)
+#EXTINF:-1 tvg-id="MegaTV.us@WSBSTV" group-title="美国",WSBS-DT1 (1080p)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
-#EXTINF:-1 tvg-id="WSLFLD351.us@HD" group-title="美国",WSLF-LD 35.1 (720p)
+#EXTINF:-1 tvg-id="DaystarTV.us@WSLFLD" group-title="美国",WSLF-LD 35.1 (720p)
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 #EXTINF:-1 tvg-id="WSOCNow.us@SD" group-title="美国",WSOC Now (1080p) [Geo-blocked]
 https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="WSOCTV91.us@HD" group-title="美国",WSOC-DT1 (1080p)
+#EXTINF:-1 tvg-id="ABC.us@WSOCTV" group-title="美国",WSOC-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WTNH81.us@HD" group-title="美国",WTNH-DT1 (720p)
+#EXTINF:-1 tvg-id="ABC.us@WTNH" group-title="美国",WTNH-DT1 (720p)
 https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==
-#EXTINF:-1 tvg-id="WTTG51.us@HD" group-title="美国",WTTG-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@WTTG" group-title="美国",WTTG-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVJ61.us@HD" group-title="美国",WTVJ-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us@WTVJ" group-title="美国",WTVJ-DT1 (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WTVT131.us@HD" group-title="美国",WTVT-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@WTVT" group-title="美国",WTVT-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WTXFTV291.us@HD" group-title="美国",WTXF-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us@WTXFTV" group-title="美国",WTXF-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WuTangCollection.us@SD" group-title="美国",Wu Tang Collection (720p)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 tvg-id="WVCULP.us@SD" group-title="美国",WVCU-LP Concord University Radio The Cure 97.7 (1080p)
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
-#EXTINF:-1 tvg-id="WVIT301.us@HD" group-title="美国",WVIT-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us@WVIT" group-title="美国",WVIT-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
 #EXTINF:-1 tvg-id="WVVHCD181.us@HD" group-title="美国",WVVH-CD 18.1 (720p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8
 #EXTINF:-1 tvg-id="WWONTVChannel48.us@SD" group-title="美国",WWON TV CH 48
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
-#EXTINF:-1 tvg-id="WWORTV91.us@HD" group-title="美国",WWOR-DT1
+#EXTINF:-1 tvg-id="MNT.us@WWORTV" group-title="美国",WWOR-DT1
 http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-#EXTINF:-1 tvg-id="WXTVDT681.us@HD" group-title="美国",WXTV-DT1
+#EXTINF:-1 tvg-id="UniMas.us@WXTVDT" group-title="美国",WXTV-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:-1 tvg-id="XFCTV.us@SD" group-title="美国",XFC TV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247
@@ -2759,7 +2757,7 @@ https://streamer.metronethn.com/AdultSwim/index.m3u8
 https://streamer.metronethn.com/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@West" group-title="美国",Telemundo West (2160p)
 http://168.228.44.241:9997/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="WLTVDT231.us@HD" group-title="美国",WLTV-DT 23.1 (720p)
+#EXTINF:-1 tvg-id="Univision.us@WLTVDT" group-title="美国",WLTV-DT 23.1 (720p)
 http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@Spanish" group-title="美国",BabyFirst Spanish (720p)
 http://168.228.44.241:9997/play/a07u/index.m3u8
@@ -2841,8 +2839,6 @@ https://tvsen6.aynaott.com/mtv/index.m3u8
 https://tvsen7.aynaott.com/lifetime/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" group-title="美国",National Geographic (576p)
 https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
-#EXTINF:-1 tvg-id="WPIXHD.us@SD" group-title="美国",WPIX-HD (576p)
-https://tvsen3.aynaott.com/GPHeknR5/index.m3u8
 #EXTINF:-1 tvg-id="GiggleMug.us@SD" group-title="美国",Giggle Mug (576p)
 https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
 #EXTINF:-1 tvg-id="BATVPublicChannel.us@SD" group-title="美国",BATV Public Channel
@@ -2899,7 +2895,7 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us@East" group-title="美国",MTV (720p)
 http://5.254.89.106/6199/index.m3u8
-#EXTINF:-1 tvg-id="WTMOCD311.us@HD" group-title="美国",WTMO-CD 31.1 (720p)
+#EXTINF:-1 tvg-id="Telemundo.us@WTMOCD" group-title="美国",WTMO-CD 31.1 (720p)
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" group-title="美国",Telemundo Al Dia (720p)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
@@ -2963,6 +2959,10 @@ http://45.70.201.81:8000/play/a014/index.m3u8
 http://45.70.201.81:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="ZTV.us@SD" group-title="美国",ZTV (1080p)
 http://45.70.201.81:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil" group-title="美国",Adult Swim Latin America Brazil (720p)
+http://45.162.64.114/ADULT_SWIM/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us@East" group-title="美国",MTV (1080p)
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3285,7 +3285,7 @@ https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hd
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavPlus.m3u8
 #EXTINF:-1 tvg-id="V2BEATTV.uk@SD" group-title="英国",V2BEAT (720p) [Not 24/7]
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia" group-title="英国",Viasat Epic Drama
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia" group-title="英国",Viasat Epic Drama Czechia
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk@UK" group-title="英国",Zee One (1080p)
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
@@ -3383,8 +3383,6 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="C31Melbourne.au@SD" group-title="澳大利亚",C31 Melbourne (240p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="Channel7.au@Sydney" group-title="澳大利亚",Channel 7 (720p) [Geo-blocked]
-https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 #EXTINF:-1 tvg-id="Channel9.au@Adelaide" group-title="澳大利亚",Channel 9 Adelaide (720p) [Geo-blocked]
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.au@Brisbane" group-title="澳大利亚",Channel 9 Brisbane (720p) [Geo-blocked]
@@ -3461,27 +3459,27 @@ https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bb
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CanadaOne.ca@SD" group-title="加拿大",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CFTUDT.ca@SD" group-title="加拿大",Canal Savoir (360p)
+#EXTINF:-1 tvg-id="Savoirmedia.ca@CFTUDT" group-title="加拿大",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="CBRTDT.ca@SD" group-title="加拿大",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBRTDT" group-title="加拿大",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 #EXTINF:-1 tvg-id="" group-title="加拿大",CBC Comedy (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
-#EXTINF:-1 tvg-id="CBXTDT.ca@SD" group-title="加拿大",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBXTDT" group-title="加拿大",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 #EXTINF:-1 tvg-id="" group-title="加拿大",CBC Heartland (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="加拿大",CBC Kids Channel (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
-#EXTINF:-1 tvg-id="CBWTDT.ca@SD" group-title="加拿大",CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBWTDT" group-title="加拿大",CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
-#EXTINF:-1 tvg-id="CBMTDT.ca@SD" group-title="加拿大",CBC Montréal (CBMT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBMTDT" group-title="加拿大",CBC Montréal (CBMT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="" group-title="加拿大",CBC Murdoch Mysteries (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8
-#EXTINF:-1 tvg-id="CBATDT.ca@SD" group-title="加拿大",CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBATDT" group-title="加拿大",CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 tvg-id="CBNTDT.ca@SD" group-title="加拿大",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBNTDT" group-title="加拿大",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="" group-title="加拿大",CBC News BC (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
@@ -3491,25 +3489,25 @@ https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:-1 tvg-id="" group-title="加拿大",CBC News Toronto (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
-#EXTINF:-1 tvg-id="CFYKDT.ca@SD" group-title="加拿大",CBC North (CFYK-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CFYKDT" group-title="加拿大",CBC North (CFYK-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
-#EXTINF:-1 tvg-id="CBHTDT.ca@SD" group-title="加拿大",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBHTDT" group-title="加拿大",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-#EXTINF:-1 tvg-id="CBOTDT.ca@SD" group-title="加拿大",CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBOTDT" group-title="加拿大",CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-#EXTINF:-1 tvg-id="CBCTDT.ca@SD" group-title="加拿大",CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBCTDT" group-title="加拿大",CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-#EXTINF:-1 tvg-id="CBKTDT.ca@SD" group-title="加拿大",CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBKTDT" group-title="加拿大",CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
-#EXTINF:-1 tvg-id="CBLTDT.ca@SD" group-title="加拿大",CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBLTDT" group-title="加拿大",CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 tvg-id="CBUTDT.ca@SD" group-title="加拿大",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBUTDT" group-title="加拿大",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-#EXTINF:-1 tvg-id="CBETDT.ca@SD" group-title="加拿大",CBC Windsor (CBET-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBETDT" group-title="加拿大",CBC Windsor (CBET-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
 #EXTINF:-1 tvg-id="" group-title="加拿大",CFJC Kamloops BC (720p) [Not 24/7]
 https://videostream.jpbgdigital.com/CFJCTV.m3u8
-#EXTINF:-1 tvg-id="CFTODT.ca@SD" group-title="加拿大",CFTO-DT (720p)
+#EXTINF:-1 tvg-id="CTV.ca@CFTODT" group-title="加拿大",CFTO-DT (720p)
 http://stream.cammonitorplus.net/1712/index.m3u8
 #EXTINF:-1 tvg-id="CHCHDT.ca@SD" group-title="加拿大",CHCH-DT (720p)
 http://185.246.209.113/CHCHHD/index.m3u8
@@ -3561,33 +3559,33 @@ http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca@SD" group-title="加拿大",Hyder TV (720p)
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CFHDDT.ca@SD" group-title="加拿大",ICI Montreal (720p)
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CFHDDT" group-title="加拿大",ICI Montreal (720p)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="CBFTDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBFTDT" group-title="加拿大",Ici Radio-Canada Télé (1080p) [Geo-blocked]
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 tvg-id="CBXFTDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBXFTDT" group-title="加拿大",Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
-#EXTINF:-1 tvg-id="CBUFTDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBUFTDT" group-title="加拿大",Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
-#EXTINF:-1 tvg-id="CJBRDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CJBRDT" group-title="加拿大",Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
-#EXTINF:-1 tvg-id="CKSHDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CKSHDT" group-title="加拿大",Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
-#EXTINF:-1 tvg-id="CBWFTDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBWFTDT" group-title="加拿大",Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
-#EXTINF:-1 tvg-id="CKTMDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CKTMDT" group-title="加拿大",Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
-#EXTINF:-1 tvg-id="CBLFTDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBLFTDT" group-title="加拿大",Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
-#EXTINF:-1 tvg-id="CBOFTDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBOFTDT" group-title="加拿大",Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
-#EXTINF:-1 tvg-id="CBVTDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBVTDT" group-title="加拿大",Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
-#EXTINF:-1 tvg-id="CKTVDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CKTVDT" group-title="加拿大",Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
-#EXTINF:-1 tvg-id="CBKFTDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBKFTDT" group-title="加拿大",Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
-#EXTINF:-1 tvg-id="CBAFTDT.ca@SD" group-title="加拿大",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBAFTDT" group-title="加拿大",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca@SD" group-title="加拿大",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
@@ -3615,7 +3613,7 @@ http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="NACTV.ca@SD" group-title="加拿大",NACTV
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
-#EXTINF:-1 tvg-id="CJONDT.ca@SD" group-title="加拿大",Newfoundland Television (480p)
+#EXTINF:-1 tvg-id="NTV.ca@CJONDT" group-title="加拿大",Newfoundland Television (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="加拿大",Noovo Cinéma (1080p)
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
@@ -3687,7 +3685,7 @@ http://23.133.220.149/TV5/index.m3u8
 http://23.133.220.149/Unis_TV/index.m3u8
 #EXTINF:-1 tvg-id="TV16Toronto.ca@SD" group-title="加拿大",TV 16 Toronto (720p) [Not 24/7]
 http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="CFTMDT.ca@SD" group-title="加拿大",TVA [Geo-blocked]
+#EXTINF:-1 tvg-id="TVA.ca@CFTMDT" group-title="加拿大",TVA [Geo-blocked]
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="TVOKids.ca@SD" group-title="加拿大",TVOKids (720p)
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
