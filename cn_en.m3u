@@ -1925,7 +1925,7 @@ https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="MontgomeryChannel.us@SD" group-title="美国",Montgomery Channel
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8
-#EXTINF:-1 tvg-id="MoreMax.us@East" group-title="美国",MoreMax (1080p)
+#EXTINF:-1 tvg-id="CinemaxHits.us@East" group-title="美国",Cinemax Hits (1080p)
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="Movies.us@SD" group-title="美国",Movies! (480p)
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
@@ -2753,8 +2753,6 @@ https://streamer.metronethn.com/MTV/index.m3u8
 https://streamer.metronethn.com/Lifetime/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" group-title="美国",Adult Swim Latin America (720p)
 https://streamer.metronethn.com/AdultSwim/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxLatino.us@SD" group-title="美国",Cinemax Latino (480p)
-https://streamer.metronethn.com/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@West" group-title="美国",Telemundo West (2160p)
 http://168.228.44.241:9997/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us@WLTVDT" group-title="美国",WLTV-DT 23.1 (720p)
@@ -2893,8 +2891,6 @@ https://wggstv16.ddns.net:9953/hls/walk1.m3u8
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="SECNetwork.us@SD" group-title="美国",SEC Network (1080p)
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="MTV.us@East" group-title="美国",MTV (720p)
-http://5.254.89.106/6199/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@WTMOCD" group-title="美国",WTMO-CD 31.1 (720p)
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" group-title="美国",Telemundo Al Dia (720p)
@@ -2963,6 +2959,18 @@ http://45.70.201.81:8000/play/a00u/index.m3u8
 http://45.162.64.114/ADULT_SWIM/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us@East" group-title="美国",MTV (1080p)
 http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-id="AspireTVLife.us@SD" group-title="美国",Aspire TV Life (1080p)
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@East" group-title="美国",HBO Hits (720p)
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@East" group-title="美国",HBO Hits (720p)
+http://4.30.180.36:8420/hbo2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="HBOMovies.us@East" group-title="美国",HBO Movies (720p)
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxClassics.us@East" group-title="美国",Cinemax Classics (1080p)
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-id="AMCenEspanol.us@SD" group-title="美国",AMC en Espanol
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
