@@ -1005,6 +1005,8 @@ https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="中国",CGTN (720p)
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+#EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn@SD" group-title="中国",Chuxiong News Channel [Not 24/7]
+http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="美国",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" group-title="美国",48 Hours (1080p)
@@ -2361,8 +2363,6 @@ https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u
 http://tvsen7.aynascope.net/teennick/index.m3u8
 #EXTINF:-1 tvg-id="TeleBoston.us@SD" group-title="美国",Tele Boston (480p)
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@EastHD" group-title="美国",Telemundo East HD (1080p)
-http://45.190.13.8/TelemundoHD/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@East" group-title="美国",Telemundo (720p)
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" group-title="美国",Telemundo Al Dia
@@ -2963,6 +2963,10 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="美国",NBA TV (720p)
 http://rezofoot.tv/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@EastHD" group-title="美国",Telemundo East HD (1080p)
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="SFree.us@HD" group-title="美国",S Free! (360p)
+https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3043,8 +3047,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk@SD" group-title="英国",Crime + Investigation CEE
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="DAZN5.uk@Portugal" group-title="英国",DAZN 5
-http://znty.dyndns.org:5010/hls/eleven5.m3u8
 #EXTINF:-1 tvg-id="DeenTV.uk@SD" group-title="英国",Deen TV (576p) [Not 24/7]
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="DeenTV.uk@SD" group-title="英国",Deen TV (576p)
