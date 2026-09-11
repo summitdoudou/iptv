@@ -1018,10 +1018,6 @@ http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" group-title="美国",A&E Latin America (1080p)
 http://190.93.224.42/AYE/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" group-title="美国",A&E Latin America Brazil (720p)
-http://45.190.28.50/AE_HD/index.m3u8
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" group-title="美国",A&E Latin America Brazil (720p)
-http://138.255.2.6:8084/AE/index.m3u8
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" group-title="美国",A&E Latin America Brazil (720p)
 http://170.83.16.50/AeE/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us@East" group-title="美国",ABC (1080p)
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
@@ -1061,8 +1057,6 @@ http://23.239.31.26:8989/accuweather/index.m3u8
 https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
 #EXTINF:-1 tvg-id="ACTV.us@SD" group-title="美国",ACTV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil" group-title="美国",Adult Swim Latin America Brazil (720p)
-http://45.190.28.50/TRUTV_HD/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil" group-title="美国",Adult Swim Latin America Brazil (720p)
 http://168.197.104.22/ADULT_SWIM/index.m3u8
 #EXTINF:-1 tvg-id="AfroLandTV.us@SD" group-title="美国",AfroLandTV (1080p)
@@ -1546,8 +1540,6 @@ https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" group-title="美国",Fox Deportes (720p)
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
-http://45.190.28.50/FOX_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (720p)
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="美国",Fox News Channel (144p)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -1673,10 +1665,6 @@ http://181.119.66.28:8081/HISTORY-2/index.m3u8
 http://190.93.224.42/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" group-title="美国",History 2 Latin America Brazil (720p)
 http://45.177.114.114/HISTORY_2/index.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" group-title="美国",History 2 Latin America Brazil (720p)
-http://45.190.28.50/H2_HD/index.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" group-title="美国",History 2 Latin America Brazil (720p)
-http://138.255.2.6:8084/H2/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" group-title="美国",History Latin America (1080p)
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" group-title="美国",History Latin America (1080p)
@@ -1831,8 +1819,6 @@ http://138.121.15.230:9002/LIFETIME/index.m3u8
 http://181.119.66.28:8081/Lifetime-HD/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" group-title="美国",Lifetime Latin America (720p)
 http://181.209.105.115:2525/play/lifetime/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" group-title="美国",Lifetime Latin America Brazil (720p)
-http://138.255.2.6:8084/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" group-title="美国",Lifetime Latin America Brazil (720p)
 http://170.83.16.50/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East" group-title="美国",Lifetime Movies (1080p)
@@ -2975,6 +2961,10 @@ http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="美国",6 Wise Tv (720p)
 https://edge.enhdtv.com/8150/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="美国",AMC Latin America (1080p)
+http://138.121.15.230:9002/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" group-title="美国",Adult Swim Latin America (1080p) [Geo-blocked]
+http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3161,8 +3151,6 @@ https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
 https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
 #EXTINF:-1 tvg-id="LatestTV.uk@SD" group-title="英国",Latest TV (480p)
 https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" group-title="英国",Magna Vision (1080p)
-https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.uk@HD" group-title="英国",MBC (1080p)
 https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
 #EXTINF:-1 tvg-id="MiracleTV.uk@SD" group-title="英国",Miracle TV (480p)
@@ -3349,6 +3337,8 @@ https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 http://hls127.freeott.top:8080/BG_AMC/video.m3u8
 #EXTINF:-1 tvg-id="GODTV.uk@SD" group-title="英国",GOD TV (576p)
 https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" group-title="英国",Magnavision TV (720p)
+https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
