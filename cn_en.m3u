@@ -1869,8 +1869,6 @@ https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="MissionTV.us@SD" group-title="美国",Mission TV (720p) [Not 24/7]
 http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork.us@SD" group-title="美国",MLB Network (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="MLBStrikeZone.us@SD" group-title="美国",MLB Strike Zone (720p)
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="MohabatTV.us@SD" group-title="美国",Mohabat TV (540p)
@@ -1929,8 +1927,6 @@ http://181.119.66.28:8081/NATGEO-HD/index.m3u8
 http://190.93.224.42/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" group-title="美国",National Geographic Wild HD East (720p)
 http://198.58.104.90:8989/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="NBATV.us@SD" group-title="美国",NBA TV (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/nbatv-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="美国",NBA TV (1080p)
 https://cdn1.ayitistream.com/NBATV/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="美国",NBA TV (720p)
@@ -1939,8 +1935,6 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@East" group-title="美国",NBC (1080p)
 http://stream.cammonitorplus.net/1785/index.m3u8
-#EXTINF:-1 tvg-id="NBC.us@East" group-title="美国",NBC (720p)
-http://170.254.17.2/NBC/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us@WMAQTV" group-title="美国",NBC 5 Chicago Live News (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
 #EXTINF:-1 tvg-id="NBCLXHome.us@HD" group-title="美国",NBC LX Home (1080p)
@@ -1951,12 +1945,8 @@ https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" group-title="美国",NBC News NOW (1080p)
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD" group-title="美国",NBC Sports Bay Area (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" group-title="美国",NBC Sports NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us@SD" group-title="美国",NBC Sports Philadelphia (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="美国",Studio Universal Latin America Brazil (720p)
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us@West" group-title="美国",NBC Universo West (720p)
@@ -2119,8 +2109,6 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="美国",QVC West (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
-#EXTINF:-1 tvg-id="RacerNetwork.us@SD" group-title="美国",Racer Network (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/racernetwork-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerNetwork.us@SD" group-title="美国",Racer Network (1080p)
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerSelect.us@SD" group-title="美国",Racer Select (1080p)
@@ -2247,8 +2235,6 @@ http://45.162.193.35/STAR_CHANNEL/index.m3u8
 http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" group-title="美国",Star Channel Latin America (1080i)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@CentralAmerica" group-title="美国",Star Channel Latin America Central America (1080p)
-https://streamer.metronethn.com/StarChannel/index.m3u8
 #EXTINF:-1 tvg-id="StarzCinema.us@East" group-title="美国",Starz Cinema (720p)
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedy.us@East" group-title="美国",Starz Comedy (1080p)
@@ -2315,8 +2301,6 @@ http://190.93.224.42/TELEMUNDO/index.m3u8
 http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@West" group-title="美国",Telemundo West (720p)
 http://181.119.108.43:9001/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us@SD" group-title="美国",Tennis Channel (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/tennischannel-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" group-title="美国",Tennis Channel (1080p)
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" group-title="美国",Tennis Channel (1080p)
@@ -2525,8 +2509,6 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_ch
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
 #EXTINF:-1 tvg-id="WeTV.us@East" group-title="美国",We TV (720p)
 http://170.254.17.2/WE_TV/index.m3u8
-#EXTINF:-1 tvg-id="WeTV.us@East" group-title="美国",We TV (720p)
-https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="美国",WeatherNation (1080p)
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 tvg-id="PBS.us@WEDQ" group-title="美国",WEDQ-DT4 (1080p)
@@ -2655,26 +2637,8 @@ https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg0
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-id="ZoomNews.us@SD" group-title="美国",Zoom TV Kurdish (720p)
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@WestHD" group-title="美国",Telemundo West HD (720p)
-https://streamer.metronethn.com/Telemundo/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" group-title="美国",FX Latin America South (720p)
-https://streamer.metronethn.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="美国",Nickelodeon Latin America (720p)
-https://streamer.metronethn.com/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" group-title="美国",Nick Jr. Latin America (720p)
-https://streamer.metronethn.com/NickJr/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" group-title="美国",AMC Latin America (720p)
-https://streamer.metronethn.com/AMC/index.m3u8
 #EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="美国",History Asia (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" group-title="美国",A&E Latin America (720p)
-https://streamer.metronethn.com/AE/index.m3u8
-#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" group-title="美国",MTV Latin America (720p)
-https://streamer.metronethn.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" group-title="美国",Lifetime Latin America (720p)
-https://streamer.metronethn.com/Lifetime/index.m3u8
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" group-title="美国",Adult Swim Latin America (720p)
-https://streamer.metronethn.com/AdultSwim/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@West" group-title="美国",Telemundo West (2160p)
 http://168.228.44.241:9997/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us@WLTVDT" group-title="美国",WLTV-DT 23.1 (720p)
@@ -2955,6 +2919,12 @@ http://107.167.16.138/OutdoorChannel/index.m3u8?token=test
 http://107.167.16.138/nickjr/index.m3u8?token=test
 #EXTINF:-1 tvg-id="History.us@East" group-title="美国",History (720p)
 http://107.167.16.138/history/index.m3u8?token=test
+#EXTINF:-1 tvg-id="CBS.us@KMOV" group-title="美国",CBS KMOV (1080p)
+http://best.happytv.xyz:2082/live/JThibodeau0923/gcEyG7W3/2193473.m3u8
+#EXTINF:-1 tvg-id="KNino.us@SD" group-title="美国",KNino (1080p)
+https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="美国",History Asia (720p)
+http://58.8.186.128:10005/bysid/2517
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3331,6 +3301,10 @@ https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk@SD" group-title="英国",MUTV (720p)
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="SetantaSports.uk@HD" group-title="英国",Setanta Sports HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" group-title="英国",BBC Lifestyle Asia (720p)
+http://58.8.186.128:10003/bysid/2333
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
@@ -3687,7 +3661,5 @@ https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciO
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 #EXTINF:-1 tvg-id="UvagutTV.ca@SD" group-title="加拿大",Uvagut TV (1080p)
 https://hls.uvagut.tv/hls/uvagut/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ca@SD" group-title="加拿大",NTV (720p)
-https://live.omni3.pl/cjon-dt/index.m3u8?token=ebnk.xyz
 #EXTINF:-1 tvg-id="CP24.ca@SD" group-title="加拿大",CP24 (720p)
 http://107.167.16.138/cp24/index.m3u8?token=test
