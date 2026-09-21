@@ -2953,6 +2953,12 @@ http://181.78.79.131:8000/play/a0mu
 http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" group-title="美国",Hola! TV Latin America
 https://xyktmobile00.s.gy/PPV901_HOLA_TV
+#EXTINF:-1 tvg-id="SCorbyTV.us@HD" group-title="美国",S Corby TV (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
+#EXTINF:-1 tvg-id="SMetroTV.us@HD" group-title="美国",S Metro TV (360p)
+https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
+#EXTINF:-1 tvg-id="SKPop.us@HD" group-title="美国",S KPop! (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3311,7 +3317,7 @@ http://dvr2.kablova.tv/MTV/index.m3u8
 https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
 #EXTINF:-1 tvg-id="IraneFardaTV.uk@SD" group-title="英国",IraneFarda TV
 https://iranefardalive.com/stream/live.m3u8
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk@SD" group-title="英国",CBeebies Asia (576p)
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk@India" group-title="英国",CBeebies Asia India (576p)
 http://202.70.146.135:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="PlanetFun.uk@SD" group-title="英国",Planet Fun (1080p)
 http://66.102.126.10:8000/play/a02k/index.m3u8
@@ -3343,6 +3349,8 @@ http://hls127.freeott.top:8080/BG_The_World/video.m3u8
 http://str2.iptvhd.ru:8080/bbc/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" group-title="英国",JimJam Europe (576p)
 http://str2.iptvhd.ru:8080/JimJam/index.m3u8
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Ukraine" group-title="英国",Viasat Epic Drama Ukraine (576p)
+http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
