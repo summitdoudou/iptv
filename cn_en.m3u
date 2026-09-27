@@ -2971,6 +2971,32 @@ https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" group-title="美国",AXN Latin America South (1080p)
 http://181.78.12.119:16123/play/ch46/index.m3u8
+#EXTINF:-1 tvg-id="SPlayEvent.us@HD" group-title="美国",S Play Event (1080p)
+https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
+#EXTINF:-1 tvg-id="ConcertChannel.us@SD" group-title="美国",Concert Channel (720p)
+http://45.167.1.138:8000/play/a04i
+#EXTINF:-1 tvg-id="CinePremium.us@SD" group-title="美国",Cine Premium (1080p)
+http://45.167.1.138:8000/play/a06s
+#EXTINF:-1 tvg-id="UniversalCinema.us@SD" group-title="美国",Universal Cinema (1080p)
+http://45.167.1.138:8000/play/a06m
+#EXTINF:-1 tvg-id="EWTN.us@SpainLatinAmerica" group-title="美国",EWTN Spain & Latin America (480p)
+http://45.167.1.138:8000/play/a01m
+#EXTINF:-1 tvg-id="MiMusicaReggaeton.us@SD" group-title="美国",Mi Musica Reggaeton (1080p)
+http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaRomantica.us@SD" group-title="美国",Mi Musica Romantica (1080p)
+http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaSalsa.us@SD" group-title="美国",Mi Musica Salsa (1080p)
+http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1 tvg-id="News12PlusLongIsland.us@HD" group-title="美国",News12+ Long Island (1080p) [Geo-blocked]
+https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@Panregional" group-title="美国",DreamWorks Channel Latin America
+https://xyktmobile00.s.gy/PPV913_DREAMWO
+#EXTINF:-1 tvg-id="Galavision.us@West" group-title="美国",Galavision West
+https://xyktmobile00.s.gy/PPV914_GALAVISION
+#EXTINF:-1 tvg-id="BabyFirst.us@Spanish" group-title="美国",BabyFirst Spanish
+https://xyktmobile00.s.gy/PPV915_BABYFIR
+#EXTINF:-1 tvg-id="KBSAmerica.us@SD" group-title="美国",KBS America
+https://xyktmobile00.s.gy/PPV918_KBSAMERI
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3361,6 +3387,10 @@ http://str2.iptvhd.ru:8080/bbc/index.m3u8
 http://str2.iptvhd.ru:8080/JimJam/index.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Ukraine" group-title="英国",Viasat Epic Drama Ukraine (576p)
 http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@Spain" group-title="英国",BabyTV Spain (1080p)
+http://181.78.12.119:16123/play/ch01/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" group-title="英国",BabyTV Latin America
+https://xyktmobile00.s.gy/PPV935_BABY
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
@@ -3725,3 +3755,9 @@ https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8
 #EXTINF:-1 tvg-id="StingrayTikTokRadio.ca@HD" group-title="加拿大",Stingray TikTok Radio (1080p)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
+#EXTINF:-1 tvg-id="LoveNature.ca@SD" group-title="加拿大",Love Nature
+https://xyktmobile00.s.gy/PPV928_LOVE_NATURE
+#EXTINF:-1 tvg-id="NewChannelPop.ca@SD" group-title="加拿大",New Channel Pop! (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+#EXTINF:-1 tvg-id="NewChannel.ca@SD" group-title="加拿大",New Channel (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
