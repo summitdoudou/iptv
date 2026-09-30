@@ -2947,6 +2947,22 @@ http://187.102.208.209:8000/play/a0ac/index.m3u8
 http://187.102.208.209:8000/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" group-title="美国",Pasiones Latin America (1080p)
 http://190.60.55.141:9083/play/a0ni/index.m3u8
+#EXTINF:-1 tvg-id="SemillitasTV.us@SD" group-title="美国",Semillitas TV (1080p)
+http://38.252.238.18:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAction.us@EastHD" group-title="美国",Cinemax Action East HD (1080p)
+https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
+#EXTINF:-1 tvg-id="HBODrama.us@West" group-title="美国",HBO Drama West (1080p)
+https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@WestHD" group-title="美国",HBO Hits West HD (1080p)
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD" group-title="美国",Discovery Turbo (1080p)
+https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD" group-title="美国",Univision Tlnovelas (1080p)
+http://200.115.120.1:8000/play/ca110/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us@Panregional" group-title="美国",DSports 2 (1080p)
+http://187.102.208.209:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-id="UniMas.us@WAMIDT" group-title="美国",UniMas WAMI-DT (1080p)
+http://190.197.41.183/Unimas/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3363,6 +3379,16 @@ https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
 https://cdn.stmify.com/bbc/stream/BBC_TWO/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" group-title="英国",BabyTV Latin America (1080p)
 http://38.44.109.41:8003/play/a0eh
+#EXTINF:-1 tvg-id="BBCEarth.uk@Poland" group-title="英国",BBC Earth (1080p)
+http://57.128.231.171:8080/307/index.m3u8
+#EXTINF:-1 tvg-id="BBCBrit.uk@Poland" group-title="英国",BBC Brit (1080p)
+http://57.128.231.171:8080/309/index.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland" group-title="英国",BBC Lifestyle Poland (1080p)
+http://57.128.231.171:8080/305/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@Wales" group-title="英国",BBC Two Wales
+https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="Now90s00s.uk@Poland" group-title="英国",Now 90s00s (576p)
+https://web-primeprimetv2026.onrender.com/playlist.m3u8
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
@@ -3733,3 +3759,5 @@ https://xyktmobile00.s.gy/PPV928_LOVE_NATURE
 https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 #EXTINF:-1 tvg-id="NewChannel.ca@SD" group-title="加拿大",New Channel (480p)
 https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
+#EXTINF:-1 tvg-id="BET.ca@SD" group-title="加拿大",BET (1080p)
+https://sra72yz.s.gy/BET_CANADA_HD.m3u8
