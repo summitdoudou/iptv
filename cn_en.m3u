@@ -2699,7 +2699,7 @@ http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1099/index.m3u8
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalkTV.us@SD" group-title="美国",The Walk TV
 https://wggstv16.ddns.net:9953/hls/walk1.m3u8
-#EXTINF:-1 tvg-id="ESPNews.us@SD" group-title="美国",ESPNews (720p)
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD" group-title="美国",Discovery Turbo (720p)
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="SECNetwork.us@SD" group-title="美国",SEC Network (1080p)
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
@@ -2799,8 +2799,6 @@ http://4.30.180.36:8420/nickjr/index.m3u8?token=test
 http://4.30.180.36:8420/syfy/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East" group-title="美国",Hallmark Channel (720p)
 http://4.30.180.36:8420/hallmark/index.m3u8?token=test
-#EXTINF:-1 tvg-id="DisneyChannel.us@HDEast" group-title="美国",Disney Channel HD East (720p)
-http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 #EXTINF:-1 tvg-id="CNBC.us@SD" group-title="美国",CNBC (720p)
 http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SPremium.us@HD" group-title="美国",S Premium! (360p)
@@ -2975,6 +2973,14 @@ http://45.173.231.22:8000/play/a097/index.m3u8
 http://179.1.196.222:9000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD" group-title="美国",Daystar TV Espanol (1080p)
 http://167.249.23.102:8000/play/a0ev/index.m3u8
+#EXTINF:-1 tvg-id="ESNETV.us@SD" group-title="美国",ESNE TV (1080p)
+http://190.217.66.92:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us@East" group-title="美国",VH1 (432p)
+http://193.254.245.162/VH1/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East" group-title="美国",Paramount Network (432p)
+http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" group-title="美国",Fox Sports 1 (720p)
+http://193.254.245.162/Fox_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" group-title="英国",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" group-title="英国",Afrobeats (1080p)
@@ -3409,6 +3415,12 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 http://51.75.127.199:3141/britasia/index.m3u8
 #EXTINF:-1 tvg-id="GODTV.uk@SD" group-title="英国",GOD TV (576p)
 https://cdn.pishow.tv/ott/live/1391/master.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk@LondonPlus1" group-title="英国",ITV1 London +1
+https://xyktmobile00.s.gy/TICK_44100
+#EXTINF:-1 tvg-id="StarBharat.uk@SD" group-title="英国",Star Bharat (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIreland" group-title="英国",BBC Two Northern Ireland
+https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="2GB.au@SD" group-title="澳大利亚",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au@SD" group-title="澳大利亚",3AW Melbourne (1080p)
