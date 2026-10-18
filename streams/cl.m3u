@@ -149,10 +149,6 @@ https://v1.tustreaming.cl/emociontv/index.m3u8
 https://v2.tustreaming.cl/enlineamauletv/index.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl@SD",EnerGeek (720p) [Not 24/7]
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD",EnerGeek Fan (1080p)
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD",EnerGeek Radio (1080p)
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl@SD",Enfoque Digital TV
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="EPATV.cl@SD",EPA! TV (720p)
@@ -232,11 +228,7 @@ https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MargaMargaTV.cl@SD",Marga Marga TV (720p)
 https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl@SD",Mega (1080p)
-http://15.204.246.24:8080/MEGAHD/index.m3u8
-#EXTINF:-1 tvg-id="Mega.cl@SD",Mega (1080p)
 http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="Mega.cl@SD",Mega (1080p)
-https://iptv.bitred.cl/mega/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl@SD",Mega (720p)
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl@SD",Mega 2 (1080p)
@@ -284,8 +276,6 @@ https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
 #EXTINF:-1 tvg-id="PreludioTV.cl@SD",Preludio TV
 https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
-#EXTINF:-1 tvg-id="PRIDEtvLATAM.cl@HD",PRIDEtv LATAM (1080p)
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="PrimiciaVida.cl@SD",Primicia Vida (720p)
 https://mc.servidor.stream:19360/8248/8248.m3u8
 #EXTINF:-1 tvg-id="PrimitivosTV.cl@SD",Primitivos TV (720p)
@@ -511,56 +501,6 @@ https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8
 https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElPinguinoTV.cl@SD",El Pinguino TV
 https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13 (1080p)
-http://cdn1tlinkgo.tlink.cl/canal13hd/mono.m3u8
-#EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
-http://cdn1tlinkgo.tlink.cl/tvnhd/mono.m3u8
-#EXTINF:-1 tvg-id="Mega2.cl@SD",Mega 2 (1080p)
-http://cdn1tlinkgo.tlink.cl/mega2/mono.m3u8
-#EXTINF:-1 tvg-id="ETCTV.cl@SD",ETC TV (1080p)
-http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
-#EXTINF:-1 tvg-id="Mega.cl@SD",Mega (1080p)
-http://cdn1tlinkgo.tlink.cl/megahd/mono.m3u8
-#EXTINF:-1 tvg-id="MegaFiccion.cl@SD",Mega Ficcion (1080p)
-http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
-#EXTINF:-1 tvg-id="MeganoticiasAhora.cl@SD",Meganoticias Ahora (1080p)
-http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8
-#EXTINF:-1 tvg-id="Megatiempo.cl@SD",Megatiempo (1080p)
-http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
-#EXTINF:-1 tvg-id="NTV.cl@SD",NTV (1080p)
-http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
-#EXTINF:-1 tvg-id="TVN3.cl@SD",TVN3 (1080p)
-http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
-#EXTINF:-1 tvg-id="24Horas.cl@SD",24 Horas (1080p)
-http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
-#EXTINF:-1 tvg-id="ChileVision.cl@SD",ChileVision (1080p)
-http://cdn1tlinkgo.tlink.cl/chvhd/mono.m3u8
-#EXTINF:-1 tvg-id="CanalCHVNoticias.cl@SD",Canal CHV Noticias (1080p)
-http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8
-#EXTINF:-1 tvg-id="TVPlus.cl@SD",TV+ (1080p)
-http://cdn1tlinkgo.tlink.cl/tvmashd/mono.m3u8
-#EXTINF:-1 tvg-id="UCVTV.cl@SD",UCV TV (1080p)
-http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
-#EXTINF:-1 tvg-id="LaRed.cl@SD",La Red (1080p)
-http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
-#EXTINF:-1 tvg-id="ViaX.cl@SD",Via X (1080p)
-http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
-#EXTINF:-1 tvg-id="TVR.cl@SD",TVR (1080p)
-http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8
-#EXTINF:-1 tvg-id="CDO.cl@SD",CDO (1080p)
-http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
-#EXTINF:-1 tvg-id="TVSenado.cl@SD",TV Senado (720p)
-http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8
-#EXTINF:-1 tvg-id="BioBioTV.cl@SD",Bio Bio TV (1080p)
-http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8
-#EXTINF:-1 tvg-id="NuevoTiempoTV.cl@SD",Nuevo Tiempo TV (1080p)
-http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8
-#EXTINF:-1 tvg-id="TVU.cl@SD",TVU (1080p)
-http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8
-#EXTINF:-1 tvg-id="SURTV.cl@SD",SUR TV (1080p)
-http://cdn1tlinkgo.tlink.cl/surtv/mono.m3u8
-#EXTINF:-1 tvg-id="TeletrakTV.cl@SD",Teletrak TV (1080p)
-https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
 https://iptv.bitred.cl/tvn/index.m3u8
 #EXTINF:-1 tvg-id="InteractivaTV.cl@SD",Interactiva TV (720p)
@@ -571,16 +511,10 @@ https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunk
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AgriculturaTV.cl@SD",Agricultura TV (1080p)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVChile.cl@SD",TV Chile
-https://xyktmobile00.s.gy/093_TV_CHILE
 #EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
 http://38.44.109.41:8003/play/a0gz/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
 http://38.44.109.41:8003/play/a0gs/index.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13
-https://xyktmobile00.s.gy/PPV908_TRECE_CHILE
-#EXTINF:-1 tvg-id="CanalCHVNoticias.cl@SD",Canal CHV Noticias
-https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS
 #EXTINF:-1 tvg-id="TVPlus.cl@SD",TV+ (720p)
 http://190.234.82.52:8000/play/a0lz/index.m3u8
 #EXTINF:-1 tvg-id="TVChile.cl@SD",TV Chile (720p)
@@ -597,3 +531,30 @@ http://187.102.208.209:8000/play/a099/index.m3u8
 http://170.79.235.133:8002/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
 http://45.173.231.22:8000/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="MeganoticiasAhora.cl@SD",Meganoticias Ahora (1080p)
+http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
+#EXTINF:-1 tvg-id="Mega2.cl@SD",Mega 2 (1080p)
+http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1 tvg-id="MegaFiccion.cl@SD",Mega Ficcion (1080p)
+http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1 tvg-id="CNNChile.cl@SD",CNN Chile (1080p)
+http://190.110.96.238:8000/play/a0f5/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.cl@SD",ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus.cl@SD",Retro Plus (1080p)
+http://181.119.97.124:8080/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="RetroPlus2.cl@SD",Retro Plus 2 (1080p)
+http://181.119.97.124:8080/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="RetroPlus3.cl@SD",Retro Plus 3 (1080p)
+http://181.119.97.124:8080/play/retroplus_3/index.m3u8
+#EXTINF:-1 tvg-id="SuyaiTV.cl@HD",Suyai TV (1080p)
+https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
+#EXTINF:-1 tvg-id="RadioSuyaiTV.cl@HD",Radio Suyai TV (1080p)
+https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl@HD",EnerGeek (1080p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
+#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD",EnerGeek FAN (720p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD",EnerGeek Radio (720p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
