@@ -14,8 +14,8 @@
 
 1. 打开 IPTVnator → 添加播放列表（Playlists）→ 使用远程 URL（Remote URL）
 2. 粘贴地址：
-   - 中文：`https://raw.githubusercontent.com/summitdoudou/iptv/master/custom/chinese.m3u`
-   - 英语：`https://raw.githubusercontent.com/summitdoudou/iptv/master/custom/english.m3u`
+   - 中文：`https://summitdoudou.github.io/iptv/custom/chinese.m3u`
+   - 英语：`https://summitdoudou.github.io/iptv/custom/english.m3u`
 3. 频道名/台标/分组自动加载（列表含 `tvg-id` 与 `tvg-logo`）
 4. 可选：加一个 XMLTV 的 EPG 源，IPTVnator 按 `tvg-id` 自动匹配节目单
 
