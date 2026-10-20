@@ -17,7 +17,11 @@
    - 中文：`https://summitdoudou.github.io/iptv/custom/chinese.m3u`
    - 英语：`https://summitdoudou.github.io/iptv/custom/english.m3u`
 3. 频道名/台标/分组自动加载（列表含 `tvg-id` 与 `tvg-logo`）
-4. 可选：加一个 XMLTV 的 EPG 源，IPTVnator 按 `tvg-id` 自动匹配节目单
+4. 节目单（EPG，2026-10-21 起每日 03:10 北京时间自动更新）：
+   - IPTVnator → 设置（齿轮）→ EPG → 添加 EPG 列表
+   - 粘贴：`https://summitdoudou.github.io/iptv-epg/guide.xml`
+   - IPTVnator 按 `tvg-id` 自动匹配，571 个频道在单内（约 2.8 万条节目）
+   - 注意：请用未压缩的 `guide.xml`，IPTVnator 不解压 `.gz`
 
 其他支持 M3U 的播放器（VLC 等）也直接打开上面的 URL 即可。
 
